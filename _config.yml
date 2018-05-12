@@ -18,7 +18,7 @@ social:
     - https://github.com/ReckoningHero
 
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: twinb0rn # to enable comments replace with your_disqus_shortname
 
 # Build settings
 markdown: kramdown
