@@ -2,8 +2,8 @@
 layout: post
 title: "What is CI and CD?"
 
-
-----
+---
+---
 <img src="https://image.slidesharecdn.com/swag-cicd-oncoscape-160527152155/95/anatomy-of-a-continuous-integration-and-delivery-cicd-pipeline-9-638.jpg?cb=1464363420">
 
 What is CI/CD? The implementation is also known as the CI/CD pipeline and is one of the best practices for devops teams to implement.
