@@ -1,9 +1,10 @@
 ---
 layout: post
-title: What is CI/CD? 
+title: "What is CI/CD?"
 
 
 ----
+<img src="https://www.rightscale.com/blog/sites/default/files/Automating%20Infrastructure%20as%20Code%20v2.png">
 
 What is CI/CD? The implementation is also known as the CI/CD pipeline and is one of the best practices for devops teams to implement.
 In software engineering, CI/CD refers to the combined practices that many software developers today mostly talk about. 
