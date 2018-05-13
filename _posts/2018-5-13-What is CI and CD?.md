@@ -22,7 +22,7 @@ is integrated into the main branch from whatever circumstances.
 
 ## CD(Continuous Deployment)
 
-<img src="https://www.google.com/search?q=CI/CD+defined&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA7t7xkoPbAhWKm-AKHYdaCkcQ_AUICygC&biw=1914&bih=983&dpr=1#imgrc=uYKJPn90MaF_aM:">
+<img src="https://www.google.com/search?q=CI/CD+defined&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA7t7xkoPbAhWKm-AKHYdaCkcQ_AUICygC&biw=1914&bih=983&dpr=1#imgrc=uYKJPn90MaF_aM">
 
 Continuous deployment helps us goes one stop further than continuous delivery. While practicing this method, every change that a developer passes all stages of the pipline, it is 
 released to any clients for software delivery. 
