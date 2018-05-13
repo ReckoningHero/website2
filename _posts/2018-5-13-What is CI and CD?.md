@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is CI/CD?"
+title: "What is CI and CD?"
 
 
 ----
