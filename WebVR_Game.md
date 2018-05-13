@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: WebVR_Game
+permalink: /VR_Game/
 ---
 
 <html>
