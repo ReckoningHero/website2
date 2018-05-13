@@ -16,6 +16,6 @@ must be avoided from integration to merge developers' changes into the release b
 Continous intgration helps us to understand a great emphasis in testing automation whicile checking if the appuication is or isnt broken whenever any commitment
 is integrated into the main branch from whatever circumstances. 
 
-## CD(Continous Deployment)
-Continous deployment helps us goes one stop further than continuous delivery. While practicing this method, every change that a developer passes all stages of the pipline, it is 
+## CD(Continuous Deployment)
+Continuous deployment helps us goes one stop further than continuous delivery. While practicing this method, every change that a developer passes all stages of the pipline, it is 
 released to any clients for software delivery. 
