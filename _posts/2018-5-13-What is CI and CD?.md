@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is CI and CD?"
-featured-img: emile-perron-190221
+featured-img: JvxT4GS2
 
 ---
 ---
