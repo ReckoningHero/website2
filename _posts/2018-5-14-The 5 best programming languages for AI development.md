@@ -15,6 +15,8 @@ If you’re reading cutting-edge deep learning research on arXiv, then almost ce
 There’s no getting around it. Python is the language at the forefront of AI research, the one you’ll find the most machine learning and deep learning frameworks for, and the one that almost everybody in the AI world speaks. For these reasons, Python is first among AI programming languages, despite the fact that your author curses the whitespace issues at least once a day.
 
 [ Learn Java from beginning concepts to advanced design patterns in this comprehensive 12-part course! ]
+
+
 2. Java and friends
 The JVM family of languages (Java, Scala, Kotlin, Clojure, etc.) is also a great choice for AI application development. You have a wealth of libraries available for all parts of the pipeline, whether it’s natural language processing (CoreNLP), tensor operations (ND4J), or a full GPU-accelerated deep learning stack (DL4J). Plus you get easy access to big data platforms like Apache Spark and Apache Hadoop.
 
