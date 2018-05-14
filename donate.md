@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donation
-permalink: /Donate/
+permalink: /donate/
 ---
 ---
 Please donate to the site! Even a dollar counts!
