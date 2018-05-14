@@ -1,3 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640"><defs><path d="M549.39 14.97C574.51 14.97 594.87 35.34 594.87 60.46C594.87 172.97 594.87 465.02 594.87 577.53C594.87 602.65 574.51 623.02 549.39 623.02C444.11 623.02 173.78 623.02 68.5 623.02C43.38 623.02 23.02 602.65 23.02 577.53C23.02 465.02 23.02 172.97 23.02 60.46C23.02 35.34 43.38 14.97 68.5 14.97C173.78 14.97 444.11 14.97 549.39 14.97Z" id="b66ZPFr4TV"></path><path d="" id="b1lWxJTGwZ"></path><path d="M566.73 315.98C566.73 455.48 452.57 568.74 311.96 568.74C171.35 568.74 57.19 455.48 57.19 315.98C57.19 176.48 171.35 63.22 311.96 63.22C452.57 63.22 566.73 176.48 566.73 315.98Z" id="a5pogrXtiW"></path><path d="M164.22 165.73L459.7 165.73L459.7 447.14L164.22 447.14L164.22 165.73Z" id="bd1zSuaOv"></path></defs><g><g><g><use xlink:href="#b66ZPFr4TV" opacity="1" fill="#587958" fill-opacity="1"></use><g><use xlink:href="#b66ZPFr4TV" opacity="1" fill-opacity="0" stroke="#625924" stroke-width="1" stroke-opacity="1"></use></g></g><g><g><use xlink:href="#b1lWxJTGwZ" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a5pogrXtiW" opacity="1" fill="#9dbed9" fill-opacity="1"></use></g><g><use xlink:href="#bd1zSuaOv" opacity="1" fill="#335085" fill-opacity="1"></use></g></g></g></svg>
+<svg width="47" height="15" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="logo">
+ <title>twinb0rn</title>
+ <g>
+  <title>Layer 1</title>
+  <g id="logo"/>
+  <text font-style="normal" transform="matrix(0.11003835361949113,0,0,0.23120094103493863,29.506307031537062,12.944733889607434) " xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_1" y="-15.396276" x="-55.857058" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">twinb0rnsoft (Joshua D. Nguyen)</text>
+ </g>
+</svg>
