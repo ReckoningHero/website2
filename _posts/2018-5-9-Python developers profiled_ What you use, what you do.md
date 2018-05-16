@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python developers profiled, What you use, what you do
+featured-img: JvxT4GS.jpg
 summary: What do Python developers do on a diaily basis from the likes of Data Analysis and Web Developement? 
 ---
 <img src="https://i.imgur.com/JvxT4GS.jpg" alt="JvxT4GS.jpg">
