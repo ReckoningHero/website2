@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cloud Services
+featured-img: cloud-service
 
 ---
 cloud-computing (what-your-provider-wont-tell-you-about-cloud-security)
