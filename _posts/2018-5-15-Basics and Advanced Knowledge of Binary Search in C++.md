@@ -4,6 +4,7 @@ title: Basics and Advanced Knowledge of Binary Search in C++
 featured-img: Data_Structure
 
 ---
+## Basic Knowledge of C++'s Binary Search
 C++ offers the ability to demonstrate the search for algorithm that requires any pariticular array to be sorted out before any 
 search is applied from the user. What you learned in your introductory classes in college or maybe (hopefully) teach yourself is 
 the ability to understand how algorithm itself is sorted to find an item in an ordered list. The objective to demostrate the algorithm 
@@ -20,13 +21,13 @@ int array[] =
     1, 3, 5, 6, 7, 8, 10, 12, 14, 17, 19, 21, 23, 34, 40, 45, 71, 100 
 };
 ---
+```
 
 
 
 
 
-
-
+## Advanced Knowledge of C++'s Binary Search
 In advanced learning with the C++ Standard Library. we used a particular sequence to partition the element of the array we are 
 looking for. When we set the parition() methond first and uses such algorithms like binary_search(), lower_bound(), upper_bound(), and
 equal_range(). Thoese sorted sequences are vectors whose contents are sorted, map, multimap, set, and multiset.
