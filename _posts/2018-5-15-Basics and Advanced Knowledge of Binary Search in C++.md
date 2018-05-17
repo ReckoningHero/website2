@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basics and Advanced Knowledge of Binary Search in C++
-featured-img: Data_Structure
+featured-img: Slide3
 mathjax: true
 
 ---
@@ -60,6 +60,5 @@ a value of true if the value is set in the specified range, otherwise it can ret
             cout << "That number is not in the vector." << endl;
         }
     }
-
 
 ```
