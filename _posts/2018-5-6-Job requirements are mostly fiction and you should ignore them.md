@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Job requirements are mostly fiction and you should ignore them
-featured-img: job-requirement
+featured-img: Trek_MemeJobReq
 ---
 ---
 
