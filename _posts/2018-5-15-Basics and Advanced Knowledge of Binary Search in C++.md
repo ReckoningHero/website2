@@ -14,13 +14,10 @@ For example, we can take this example for instance:
 
 
 ```yaml
-
----
 int array[] = 
 { 
     1, 3, 5, 6, 7, 8, 10, 12, 14, 17, 19, 21, 23, 34, 40, 45, 71, 100 
 };
----
 ```
 
 
@@ -38,7 +35,6 @@ a value of true if the value is set in the specified range, otherwise it can ret
 
 ```yaml
 
----
     vector<int> vec;
     cout << "Enter values:" << endl;
     populateContainer(vec);
@@ -63,6 +59,6 @@ a value of true if the value is set in the specified range, otherwise it can ret
             cout << "That number is not in the vector." << endl;
         }
     }
----
+
 
 ```
