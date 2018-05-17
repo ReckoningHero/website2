@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Basics and Advanced Knowledge of Binary Search in C++
-featured-img: Data_Structure
+featured-img: sleek
+mathjax: true
 
 ---
 ## Basic Knowledge of C++'s Binary Search
