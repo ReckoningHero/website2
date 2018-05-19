@@ -62,6 +62,6 @@ a value of true if the value is set in the specified range, otherwise it can ret
     }
 
 ```
-
-## Professional C++ (3rd Edition) by Marc Gregoire PDF File
+## References
+# Professional C++ (3rd Edition) by Marc Gregoire PDF File
 [Professional C++ (3rd Edition) by Marc Gregoire]({{ "/assets/PDFs/Professional C++ (3rd Edition) by Marc Gregoire 2014 PDF.pdf" | absolute_url }})
