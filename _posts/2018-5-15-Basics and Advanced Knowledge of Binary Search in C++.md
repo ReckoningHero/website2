@@ -62,3 +62,6 @@ a value of true if the value is set in the specified range, otherwise it can ret
     }
 
 ```
+
+References:
+PDF: [get the PDF]({{ "/assets/PDFs/Professional C++ (3rd Edition) by Marc Gregoire 2014 PDF.pdf" | absolute_url }})
