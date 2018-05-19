@@ -16,3 +16,7 @@ When we take into consideration with .NET Framework while coding C#, we can impl
 Take this picture for example:
 
 ![image tooltip here](/assets/Net-Framework.jpg)
+
+As we can see, there are various of .NET Frameworks implemented over the pass decade when we are building our architecture. From the likes of ASP.NET to Task-based Asynchronous Pattern (TAP) which helps us to understand the software efficiently. With the latest .NET Framework 4.5, any method that is attributed with ASYNC as a keyword is considered as asynchronous method in which C# compiler performs the necessary change to implement the method right from TAP.
+
+
