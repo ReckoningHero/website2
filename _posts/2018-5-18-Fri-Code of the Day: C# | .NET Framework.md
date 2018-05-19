@@ -7,4 +7,4 @@ title: "Fri-Code of the Day: C# | .NET Framework"
 
 
 
-![My helpful screenshot]({{ "/assets/Net-Framework.jpg" | absolute_url }})
+![My helpful screenshot]{ "/assets/Net-Framework.jpg" | absolute_url }
