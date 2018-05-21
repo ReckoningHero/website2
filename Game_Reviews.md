@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Game_Reviews
 permalink: /GameReviews/
 ---
