@@ -40,6 +40,42 @@ guess = 3
 ```
 
 
+```
+
+
+#include <iostream>
+using namespace std;
+
+int main() 
+
+{
+  int number_to_find = 7;
+  int array[] = { 1, 3, 4, 6, 7, 8, 10, 13, 14, 18, 19, 21, 24, 37, 40, 45, 71 };
+  int min = 0;
+  int max = (sizeof(array) / sizeof(*array) - 1); // last index value 
+  int guess;
+
+  while (min <= max) 
+  {
+    guess = (int)(((max + min) / 2) + 0.5);
+    if (number_to_find == array[guess]) 
+      {
+        cout << "The number is at index " << guess << endl;
+        break;
+      } else if (array[guess] < number_to_find) {
+        min = guess + 1;
+      } else {
+        max = guess - 1;
+      }
+    cout << guess << endl;
+  }
+
+  return 0;
+}
+
+```
+
+
 ## Advanced Knowledge of C++'s Binary Search
 In advanced learning with the C++ Standard Library. we used a particular sequence to partition the element of the array we are 
 looking for. When we set the parition() methond first and uses such algorithms like binary_search(), lower_bound(), upper_bound(), and
