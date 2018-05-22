@@ -17,12 +17,27 @@ For example, we can take this example for instance:
 ```yaml
 int array[] = 
 { 
-    1, 3, 5, 6, 7, 8, 10, 12, 14, 17, 19, 21, 23, 34, 40, 45, 71, 100 
+    1, 3, 4, 6, 7, 8, 10, 13, 14, 18, 19, 21, 24, 37, 40, 45, 71 
 };
 ```
+Let’s say we are trying to find the index value of the number 7 in this array. There are 17 items in total and the index values go from 0 to 16.
 
+We can see that the index value of 7 is 4, since it’s the fifth element in the array.
 
+But what would be the best way for the computer to find the index value of the number we are looking for?
 
+First, we store the min and max values, such as 0 and 16.
+
+Now the search looks like this:
+
+```
+                      1, 3, 4, 6, 7, 8, 10, 13
+
+min = 0
+max = 7
+guess = 3 
+
+```
 
 
 ## Advanced Knowledge of C++'s Binary Search
