@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bad Code vs Good Code
+title: Bad Code vs Good Code The Implementation of Coding from right and wrong
 
 ---
 When we consider the implementation of our code, we need to comphend the concepts of what makes a effective algorithms from a horrible algorithms. Having a bad code can undermines some fundemental flaws in our thinking of implementation our algorithms and presentation. 
