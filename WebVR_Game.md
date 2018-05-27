@@ -7,11 +7,13 @@ permalink: /VR_Game/
 <html>
   <head>
     <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-physics-system@1.4.0/dist/aframe-physics-system.min.js"></script>
   </head>
   <body>
-    <a-scene>
-      <a-box src= "https://i.imgur.com/mYmmbrp.jpg" position = "0 2 -5 " rotation = " 0 45 45" scale="3 3 3" ></a-box>
-      <a-sky color = "#555"></a-sky>
+    <a-scene physics>
+      <a-box position="-1 4 -3" rotation="0 45 0" color="#4CC3D9" dynamic-body></a-box>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4" static-body></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
     </a-scene>
   </body>
 </html>
