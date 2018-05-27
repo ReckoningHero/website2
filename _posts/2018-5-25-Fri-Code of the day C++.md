@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Fri-Code of the day-C++"
 ---
 ---
