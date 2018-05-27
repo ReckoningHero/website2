@@ -77,12 +77,12 @@ int main()
 
 
 ## Advanced Knowledge of C++'s Binary Search
-In advanced learning with the C++ Standard Library. we used a particular sequence to partition the element of the array we are 
+In advanced learning with the C++ Standard Library. we use a particular sequence to partition the element of the array we are 
 looking for. When we set the parition() methond first and uses such algorithms like binary_search(), lower_bound(), upper_bound(), and
 equal_range(). Thoese sorted sequences are vectors whose contents are sorted, map, multimap, set, and multiset.
 
 For example, this algorithm demonstrates the binary_search() method to find a matching element in logarithmic time instead of linear
-time. It laters requies a star and end iterator to specify the range, a value to seach, and to callback a comparision opionally. It returns
+time. It laters requires a star and end iterator to specify the range, a value to search, and to callback a comparision optionally. It returns
 a value of true if the value is set in the specified range, otherwise it can return a value of false.
 
 ```yaml
