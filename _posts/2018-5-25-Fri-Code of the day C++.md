@@ -11,3 +11,9 @@ Stroustrup developed the language for the idea and concept to have the original 
 
 ## What applications we used this language in today's technology?
 adsf
+
+
+
+
+# References
+https://www.nae.edu/177355.aspx "Computer Science Pioneer Bjarne Stroustrup to Receive the 2018 Charles Stark Draper Prize for Engineering"
