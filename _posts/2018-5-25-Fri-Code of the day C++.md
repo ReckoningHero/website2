@@ -10,7 +10,7 @@ In the programming world, C++ is a programming language that comes from a lower-
 Stroustrup developed the language for the idea and concept to have the original C language to have "C with classes". He wanted to have some features for the C language with  some exception handling, operator overloading, and templates. Additionally, he also wanted to add some classes, derived classes, strong typing, inlining and default arguments. This created the C language with a proper static library than its original counterpart. Other interesting note, Stroustrup received a 2018 Chalres Stark Draper Prize for Engineering from the National Academy of Engineering and $500,000 for his accomplishment to our society.
 
 ## What applications we used this language in today's technology?
-adsf
+![image tooltip here](/assets/img/cpp-features1.png)
 
 
 
