@@ -6,6 +6,7 @@ summary: What is C++ and how it impacts into today's technology?
 ---
 
 ![image tooltip here](/assets/img/Cplusplus.png)
+![image tooltip here](/assets/img/CPP.gif)
 
 # What is C++?
 In the programming world, C++ is a programming language that comes from a lower-level language compared to Java and Python. It was designed to be an object-oriented programming language that can write programs for many applications we have in today's softwares such as our operating systems(Windows, Linux) and modern video games (Unreal Engine, some Unity).  Back int the 80s, a computer scientist named Bjarne 
