@@ -23,7 +23,7 @@ A super set of C, C++ is an object-oriented programming language and incorporate
 
 Applications such as:
 
-1. Games:
+1. Gaming:
 
 
 2. Graphic User Interface (GUI) based applications:
@@ -48,6 +48,8 @@ Applications such as:
 
 
 9. Compilers:
+
+## What 
 
 
 
