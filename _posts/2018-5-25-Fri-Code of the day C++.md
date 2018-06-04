@@ -21,6 +21,36 @@ As a middle-level language, C combines benefits of both low machine level langua
 
 A super set of C, C++ is an object-oriented programming language and incorporates all the features offered by C. C++ started its journey as C with classes. Gradually, it has evolved and despite the popularity of other programming languages like C# and Java, C, C++ holds its own as one of the most widely used languages for scripting. In applications, C++ is ubiquitous.
 
+Applications such as:
+
+1. Games:
+
+
+2. Graphic User Interface (GUI) based applications:
+
+
+3. Web Browsers:
+
+
+4. Advance Computations and Graphics:
+
+
+5. Database Software:
+
+
+6. Operating Systems:
+
+
+7. Enterprise Software:
+
+
+8. Medical and Engineering Applications:
+
+
+9. Compilers:
+
+
+
 
 # References
 https://www.nae.edu/177355.aspx "Computer Science Pioneer Bjarne Stroustrup to Receive the 2018 Charles Stark Draper Prize for Engineering"
