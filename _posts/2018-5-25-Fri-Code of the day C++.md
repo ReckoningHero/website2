@@ -49,7 +49,7 @@ Applications such as:
 
 9. Compilers:
 
-## What 
+## Will the programming language can help me understand more complex, lower-end machine languages?
 
 
 
