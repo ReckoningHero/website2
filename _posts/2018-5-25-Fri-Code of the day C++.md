@@ -41,18 +41,20 @@ Applications such as:
 
 ### Advance Computations and Graphics:
 
-
+![image tooltip here](/assets/img/favorites.gif)
 ###  Database Software:
 
-
+![image tooltip here](/assets/img/gdb-many-windows.gif)
 ###  Operating Systems:
 
+![image tooltip here](/assets/img/windows-os.gif)
 
 ###  Enterprise Software:
 
 
 ###  Medical and Engineering Applications:
 
+![image tooltip here](1_M2xXPJrenLuvHtizg42X9g.gif)
 
 ###  Compilers:
 
