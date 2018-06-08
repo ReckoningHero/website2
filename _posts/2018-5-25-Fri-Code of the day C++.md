@@ -25,31 +25,33 @@ A super set of C, C++ is an object-oriented programming language and incorporate
 
 Applications such as:
 
-1. Gaming:
+### Gaming:
+
+
 ![image tooltip here](/assets/img/image.gif)
 
-2. Graphic User Interface (GUI) based applications:
+###  Graphic User Interface (GUI) based applications:
 
 
-3. Web Browsers:
+###  Web Browsers:
 
 
-4. Advance Computations and Graphics:
+### Advance Computations and Graphics:
 
 
-5. Database Software:
+###  Database Software:
 
 
-6. Operating Systems:
+###  Operating Systems:
 
 
-7. Enterprise Software:
+###  Enterprise Software:
 
 
-8. Medical and Engineering Applications:
+###  Medical and Engineering Applications:
 
 
-9. Compilers:
+###  Compilers:
 
 ## Will the programming language can help me understand more complex, lower-end machine languages?
 ## Do I need to take any prior programming languages in order to understand C++?
