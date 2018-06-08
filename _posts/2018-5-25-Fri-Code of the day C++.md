@@ -50,7 +50,7 @@ Applications such as:
 9. Compilers:
 
 ## Will the programming language can help me understand more complex, lower-end machine languages?
-
+Everyday, many users are learning each and everyday in order to get more experience in programming and expertise in the industry. 
 
 
 
