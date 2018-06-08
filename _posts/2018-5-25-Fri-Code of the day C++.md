@@ -33,8 +33,11 @@ Applications such as:
 ###  Graphic User Interface (GUI) based applications:
 
 
+![image tooltip here](/assets/img/gdbgui_animation.gif)
+
 ###  Web Browsers:
 
+![image tooltip here](/assets/img/favorites.gif)
 
 ### Advance Computations and Graphics:
 
