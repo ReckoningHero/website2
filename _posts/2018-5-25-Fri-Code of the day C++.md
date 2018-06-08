@@ -41,7 +41,7 @@ Applications such as:
 
 ### Advance Computations and Graphics:
 
-![image tooltip here](/assets/img/favorites.gif)
+![image tooltip here](/assets/img/Graphics.gif)
 ###  Database Software:
 
 ![image tooltip here](/assets/img/gdb-many-windows.gif)
