@@ -58,6 +58,8 @@ Applications such as:
 
 ###  Compilers:
 
+
+![image tooltip here](1_M2xXPJrenLuvHtizg42X9g.gif)
 ## Will the programming language can help me understand more complex, lower-end machine languages?
 ## Do I need to take any prior programming languages in order to understand C++?
 Not necessarily. C++ is a simple and clear language in its expressions. It is true that a piece of code written with C++ may be seen by a stranger of programming a bit more cryptic than some other languages due to the intensive use of special characters ({}[]*&!|...), but once one knows the meaning of such characters it can be even more schematic and clear than other languages that rely more on English words.
