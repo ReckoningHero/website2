@@ -51,10 +51,11 @@ Applications such as:
 
 ###  Enterprise Software:
 
+![image tooltip here](/assets/img/Enterprise.gif)
 
 ###  Medical and Engineering Applications:
 
-![image tooltip here](1_M2xXPJrenLuvHtizg42X9g.gif)
+![image tooltip here](/assets/img/1_M2xXPJrenLuvHtizg42X9g.gif)
 
 ###  Compilers:
 
