@@ -8,9 +8,9 @@ SOLID is one of the most popular desing principles in an object-oriented softwar
 
 There are five design principles to know:
 
-Single Responsibility Principle
-Open/Closed Principle
-Liskov Substitution Principle
-Interface Segregation Principle
-Dependency Inversion
+-Single Responsibility Principle
+-Open/Closed Principle
+-Liskov Substitution Principle
+-Interface Segregation Principle
+-Dependency Inversion
 
