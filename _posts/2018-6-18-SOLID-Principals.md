@@ -16,5 +16,5 @@ With Single Responsibility Principle, a class within the code should have only o
 ## O-Open-Closed Principle
 In a typical object-oriented programming environment, the open/closed principle states that any software entitles such as classes, modules, or functions should be open for extension, but closed for modification. In layman's term, the software entity can allow its behavior to be extended without modifying its algorithm in the source code. 
 
-##
+## I-Liskov Substitution Principle
 
