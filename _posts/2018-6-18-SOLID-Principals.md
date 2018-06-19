@@ -4,6 +4,7 @@ title: SOLID Design Principles Explained
 featured-img: cloud-service
 
 ---
+## What is SOLID Design Principles?
 The term SOLID is an acronym that describes the five design principles that makes our software more understandable for our users to grasp. It is one of the most popular design principles in an object-oriented software development environment. It allows many developers to write and program their code more organized, flexible, and straight forward without losing any integrity or maintainability in design. 
 
 There are five design principles to know:
