@@ -10,6 +10,7 @@ featured-img: Project1
 ## Resume:
 [Resume 2018]({{ "/assets/PDFs/Resume May2018.pdf" | absolute_url }})
 
-## Cover Letter:
+## Althernative Email Contact:
+twinb0rn56@gmail.com
 
 
