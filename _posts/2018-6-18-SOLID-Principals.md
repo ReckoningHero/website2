@@ -18,4 +18,9 @@ With Single Responsibility Principle, a class within the code should have only o
 In a typical object-oriented programming environment, the open/closed principle states that any software entitles such as classes, modules, or functions should be open for extension, but closed for modification. In layman's term, the software entity can allow its behavior to be extended without modifying its algorithm in the source code. 
 
 ## I-Liskov Substitution Principle
+The Liskov Substitution Principle (LSP) is a principle that functions in order to use pointers to base classes in order to be able to use objects of derived classes without knowing it. In layman's terms, some language that sounds right in natural language doesn't quite work in code. For a mathmatical example think a square to a rectangle as equivalent, but they don't 
+![image tooltip here](/assets/img/lsp.jpg)
 
+## Interface Segregation Principle
+
+## Dependency Inversion
