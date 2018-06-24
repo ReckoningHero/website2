@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ex
+title: Emulation and its history
 featured-img: emulation
 
 ---
