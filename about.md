@@ -11,6 +11,4 @@ featured-img: Project1
 [Resume 2018]({{ "/assets/PDFs/Resume May2018.pdf" | absolute_url }})
 
 ## Alternative Email Contact:
-twinb0rn56@gmail.com
-
-
+joshua.nguyen56@yahoo.com
