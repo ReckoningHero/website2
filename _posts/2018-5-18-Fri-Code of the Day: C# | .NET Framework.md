@@ -2,6 +2,7 @@
 layout: post
 title: "Fri-Code of the Day: C# | .NET Framework"
 summary: Know the details of C# and its .NET Framework
+featured-img: 1439532533043
 ---
 
 ## .NET Framework and what is C#?
