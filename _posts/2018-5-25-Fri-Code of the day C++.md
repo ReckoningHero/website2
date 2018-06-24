@@ -2,7 +2,7 @@
 layout: post
 title: "Fri-Code of the day-C++"
 summary: What is C++ and how it impacts into today's technology?
-featured-img: 1439532533043
+featured-img: c_plus_plus_wallpaper
 ---
 ---
 
