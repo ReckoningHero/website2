@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLID Design Principles Explained
-featured-img: cloud-service
+featured-img: Data_Structure
 
 ---
 ## What is SOLID Design Principles?
