@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad Code vs Good Code The Implementation of Coding from right and wrong
-
+featured-img: 1439532533043
 ---
 When we consider the implementation of our code, we need to comprehend the concepts of what makes a effective algorithms from a horrible algorithms. Having a bad code can undermines some fundamental flaws in our thinking of implementation our algorithms and presentation.
 Good code is well-organized and written thought out. One of the key factors of a good code is data and operations in classes fit together effectively. Consider the bad code from being too complicated from your user to actually understand or acknowledge or what are you writing or explaining about.
@@ -95,7 +95,7 @@ int main()
 
 ```
 This code suffers from lack of indentation, oblivious code comments, unnecessary usage of variables, and a bunch of CIN statements which
-makes the whole algorithm very hard to read. In order to prevent this common errors that most beginner programmers have been habited to use, we can start off with writing comments first with clear objective and information for any viewers to read clearly. 
+makes the whole algorithm very hard to read. In order to prevent this common errors that most beginner programmers have been habited to use, we can start off with writing comments first with clear objective and information for any viewers to read clearly.
 
 
 ![image tooltip here](/assets/a0bTh.jpg)
