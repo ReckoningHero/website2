@@ -4,6 +4,5 @@ title: Game_Reviews
 permalink: /GameReviews/
 ---
 
-## .NET Framework 
-
-asdfadfaf adf aadfa sadfffwegsdfgdfs das sadf asafasdf
+## Game Reviews Post
+Coming soon!
