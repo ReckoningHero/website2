@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Ex
-featured-img: cloud-service
+featured-img: emulation
 
+
+Emulation helps us understand!
 ---
