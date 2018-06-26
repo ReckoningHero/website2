@@ -10,8 +10,6 @@ featured-img: Project1
 ## Resume:
 [Resume 2018]({{ "/assets/PDFs/Resume May2018.pdf" | absolute_url }})
 
-## Alternative Email Contact:
-joshua.nguyen56@yahoo.com
 
 ## LinkedIn
 https://www.linkedin.com/in/joshuanguyensoft1995
