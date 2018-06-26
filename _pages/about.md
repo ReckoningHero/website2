@@ -12,3 +12,6 @@ featured-img: Project1
 
 ## Alternative Email Contact:
 joshua.nguyen56@yahoo.com
+
+## LinkedIn
+https://www.linkedin.com/in/joshuanguyensoft1995
