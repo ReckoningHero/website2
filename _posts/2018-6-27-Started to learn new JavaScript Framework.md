@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog#1: Get Started to Learn a New JavaScript Framework
+title: "Blog #1: Get Started to Learn a New JavaScript Framework"
 featured-img: 19_reactjs
 
 ---
