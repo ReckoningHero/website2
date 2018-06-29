@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emulation and its history
-featured-img: giphy
+featured-img: emulation
 
 ---
 ## Emulation
