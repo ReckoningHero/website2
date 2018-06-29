@@ -11,3 +11,5 @@ frameworks in the JavaScript universe such as Ember.js, Angular.js, React.js, Ba
 
 
 ## How I got started learning a new framework?
+
+adf 
