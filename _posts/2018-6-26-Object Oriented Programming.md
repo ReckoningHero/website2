@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object oriented Programming
-featured-img: emulation
+featured-img: Object
 
 ---
 ## What Are OOP Concepts?
