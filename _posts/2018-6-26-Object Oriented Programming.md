@@ -6,7 +6,7 @@ featured-img: Object
 ---
 ## What Are OOP Concepts?
 
-With programming, we have to consider the basic concepts of OOP (Object oriented Programming). 
+With programming, we have to consider the basic concepts of OOP (Object oriented Programming).  OOP allows us to understand our code more in depth and better understanding within the algorithm from a mathematical perspective. 
 
 
-## What can we do with Emulation in today's technology?
+## How can we implemtn
