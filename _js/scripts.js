@@ -269,7 +269,7 @@ $( "#contactForm" ).submit( function( e ) {
 
         beforeSend: function() {
             $btn.prop( "disabled", true );
-            $btn.text( "Sending..." );
+            $btn.text( "Sending...." );
         },
         // eslint-disable-next-line no-unused-vars
         success: function( data ) {
@@ -281,14 +281,14 @@ $( "#contactForm" ).submit( function( e ) {
             $( ".modal__body" ).append(
               "<h1>Thanks " +
               $name +
-              "!</h1><p>Your message was successfully sent! Will get back to you soon.</p>"
+              "!</h1><p>Your message was successfully sent! I will get back to you soon.</p>"
             );
 
         },
         error: function( err ) {
             $( ".modal, .modal__overlay" ).addClass( "--show" );
             $( ".modal__body" ).append(
-              "<h1>Aww snap!</h1><p>Something went wrong, please try again. Error message: </p>" +
+              "<h1>Aww crap!</h1><p>Something went wrong, please try again. Error message: </p>" +
               err
             );
         }

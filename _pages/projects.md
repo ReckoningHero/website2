@@ -8,7 +8,7 @@ permalink: /Portfolio/
 ## Portfolio
 ----
 
-This is an about my projects I created over the years as a programmer! Take a look!
+This is an about my projects I created over the years as a programmer!
 
 
 | Projects            |     Description   | Download Links        |
@@ -18,14 +18,3 @@ This is an about my projects I created over the years as a programmer! Take a lo
 | Project (Unreal Engine 4)  |INDIVIDUAL PROJECT:                  |        <a href=""  download>Download</a>             |
 | C++ DirectX Framework:  X Marks the Spot  ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment                  |        <a href="https://github.com/ReckoningHero/X-Marks-the-Spot"  download>Download</a>             |
 | C#    |INDIVIDUAL PROJECT:                  |        <a href=""  download>Download</a>             |
-
-    
-
-
-## Experience_Timeline
-----
-
-
-
-
-
