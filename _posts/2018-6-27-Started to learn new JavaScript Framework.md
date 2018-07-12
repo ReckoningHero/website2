@@ -11,4 +11,4 @@ frameworks in the JavaScript universe such as Ember.js, Angular.js, React.js, Ba
 
 
 ## How I got started learning a new framework?
-What kind of framework is better suited for me? Well, I've been studying some cases
+What kind of framework is better suited for me? Well, I've been studying some cases on some kind of framework on Angular, Node, and React.js.
