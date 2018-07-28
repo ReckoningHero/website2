@@ -11,8 +11,6 @@ featured-img: Project1
 [Resume 2018]({{ "/assets/PDFs/Resume May2018.pdf" | absolute_url }})
 
 
-# Other Social Media:
-
 ## LinkedIn:
 [LinkedIn: ](https://www.linkedin.com/in/joshuanguyensoft1995)
 
