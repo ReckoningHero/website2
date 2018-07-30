@@ -12,7 +12,7 @@ featured-img: Project1
 
 
 ## LinkedIn:
-[My LinkedIn Profile: ](https://www.linkedin.com/in/joshuanguyensoft1995)
+[My LinkedIn Profile ](https://www.linkedin.com/in/joshuanguyensoft1995)
 
 ## Google Hangout:
 
