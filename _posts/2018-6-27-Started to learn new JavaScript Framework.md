@@ -16,7 +16,7 @@ What kind of framework is better suited for me? Well, I've been studying some ca
 
 
 
-## Example of JavaScript from Social Media
+## Example of JavaScript from Social Media such as Twitter and Youtube
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Radio Host, Alex Jones has been banned from YouTube, Spotify, and Facebook. Fake News media spins this as he promotes hate speech towards the public. We can not let this happen again! Vote midterms now!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1026587142989008897?ref_src=twsrc%5Etfw">August 6, 2018</a></blockquote>
