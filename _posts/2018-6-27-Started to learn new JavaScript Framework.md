@@ -11,6 +11,31 @@ frameworks in the JavaScript universe such as Ember.js, Angular.js, React.js, Ba
 
 
 ## How I got started learning a new framework?
+<<<<<<< HEAD
 What kind of framework is better suited for me? Well, I've been studying some cases on some kind of framework on Angular, Node, and React.js, etc. With that in mind it is important to under
 
 ## Know the difference between Java and JavaScript
+=======
+What kind of framework is better suited for me? Well, I've been studying some cases on some kind of framework on Angular, Node, and React.js. afd
+
+
+
+
+## Example of JavaScript from Social Media such as Twitter and Youtube
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Radio Host, Alex Jones has been banned from YouTube, Spotify, and Facebook. Fake News media spins this as he promotes hate speech towards the public. We can not let this happen again! Vote midterms now!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/">August 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+---
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Radio Host, Alex Jones has been banned from YouTube, Spotify, and Facebook. Fake News media spins this as he promotes hate speech towards the public. We can not let this happen again! Vote midterms now!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/">August 6, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+---
+
+
+>>>>>>> d76f8bddfcf7912828d0f8f840ec255ac373d6e3
