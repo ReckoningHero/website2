@@ -28,10 +28,6 @@ What kind of framework is better suited for me? Well, I've been studying some ca
 
 
 ```
-
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Radio Host, Alex Jones has been banned from YouTube, Spotify, and Facebook. Fake News media spins this as he promotes hate speech towards the public. We can not let this happen again! Vote midterms now!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/">August 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 ```
