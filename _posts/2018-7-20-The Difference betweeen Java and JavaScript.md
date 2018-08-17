@@ -15,4 +15,9 @@ Java, which was codenamed as "Oak" and "Green" during its initial development, w
 Since it borrowed so much algorithm and syntax from C/C++, many people saw it as an opportunity to develop new concepts to make coding more safe and easy.
 
 With programmers have the idea of "write once, run anywhere", many programmers argue that the Java code needs to be complied into a single JAR file that can run on any
-compatible Java system rather than compiling it to a separate executables to a completely different platform other than Java.  The case was made possible with the idea of Java Virtual Machine (JVM) which it can reads the JAR file and complies it into a specific instructions set at runtime, then executes it into an app. 
+compatible Java system rather than compiling it to a separate executables to a completely different platform other than Java.  The case was made possible with the idea of Java Virtual Machine (JVM) which it can reads the JAR file and complies it into a specific instructions set at runtime, then executes it into an app.
+
+
+# References
+
+[Professional C++ (3rd Edition) by Marc Gregoire]({{ "/assets/PDFs/w_make362.pdf" | absolute_url }})
