@@ -8,7 +8,7 @@ permalink: /Portfolio/
 ## Portfolio
 ----
 
-Check back for more updates in the 
+Check back for more updates in the near future!
 
 
 | Projects            |     Description   | Download Links        |
