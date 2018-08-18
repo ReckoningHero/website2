@@ -20,4 +20,4 @@ compatible Java system rather than compiling it to a separate executables to a c
 
 # References
 
-[Professional C++ (3rd Edition) by Marc Gregoire]({{ "/assets/PDFs/w_make362.pdf" | absolute_url }})
+[*Professional C++ (3rd Edition) by Marc Gregoire*]({{ "/assets/PDFs/w_make362.pdf" | absolute_url }})
