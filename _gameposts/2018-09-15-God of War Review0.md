@@ -5,4 +5,6 @@ summary: A Boy(BOI!!!) and his father on their journey against unprecedented odd
 featured-img: God of War 2018
 
 ---
+
+## God of War 2018 Review
 As you are reading this, I personally have never been much of a God of War fan myself. The games in the series that I played are the ones back in the PS2 days which are God of War (2004) and God of War II (2007).
