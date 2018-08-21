@@ -23,15 +23,13 @@ What kind of framework is better suited for me? Well, I've been studying some ca
 ## Example of JavaScript from Social Media such as Twitter and Youtube
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Radio Host, Alex Jones has been banned from YouTube, Spotify, and Facebook. Fake News media spins this as he promotes hate speech towards the public. We can not let this happen again! Vote midterms now!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/">August 6, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I hope John Brennan, the worst CIA Director in our country’s history, brings a lawsuit. It will then be very easy to get all of his records, texts, emails and documents to show not only the poor job he did, but how he was involved with the Mueller Rigged Witch Hunt. He won’t sue!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1031544711717302272?ref_src=twsrc%5Etfw">August 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
-Radio Host, Alex Jones has been banned from YouTube, Spotify, and Facebook.
-Fake News media spins this as he promotes hate speech towards the public.
-We can not let this happen again! Vote midterms now!</p>&mdash; Donald J. Trump (@realDonaldTrump)
-<a href="https://twitter.com/realDonaldTrump/status/">August 6, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I hope John Brennan, the worst CIA Director in our country’s history, brings a lawsuit. It will then be very easy to get all of his records, texts, emails and documents to show not only the poor job he did, but how he was involved with the Mueller Rigged Witch Hunt. He won’t sue!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1031544711717302272?ref_src=twsrc%5Etfw">August 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
