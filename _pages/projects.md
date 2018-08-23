@@ -12,7 +12,6 @@ permalink: /Portfolio/
 Check back for more updates in the near future!
 
 
-## Game Projects
 | Projects            |     Description   | Download Links        |
 | :---                |     :----        |                   ---:|
 | **Ardunio Simulation** (*Unity*) ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)| <a href="http://www.mediafire.com/file/mnq1h193ohrcg9m/DownToTheWire_Gold_Release.rar" download>Download</a>   |
@@ -21,12 +20,12 @@ Check back for more updates in the near future!
 | **Project** (*Unreal Engine 4*) (*Work In Progress*) |INDIVIDUAL PROJECT:  VR Game                |        <a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>             |
 
 
-## C++/C#(.NET/ASP.NET)/Java Applications
+
 | Projects            |     Description   | Download Links        |
 | :---                |     :----        |                   ---:|
 | **C# .NET: Private Browser** (*Work In Progress*)   |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a>
 
-## 3D Models
+
 
 ----
 
