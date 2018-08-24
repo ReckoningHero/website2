@@ -13,4 +13,4 @@ With programming, we have to consider the basic concepts of OOP (Object oriented
 We can implement Object Oriented concepts by understanding the basics of Software Architecture. The primary goal of software architecture is to define the non-functional requirements of a system and define the environment. The detailed design is followed by a definition of how to deliver the functional behavior within the architectural rules.
 
 ## What is Software Architecture?
-
+Software Architecture is the
