@@ -5,7 +5,7 @@ featured-img: Project1
 permalink: /Portfolio/
 ---
 
-# Portfolio
+# Programming Projects
 ----
 
 
