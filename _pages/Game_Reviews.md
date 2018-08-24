@@ -87,9 +87,6 @@ body {
 </head>
 <body>
 
-<div class="header">
-  <h2>Game Reviews</h2>
-</div>
 
 <div class="row">
   <div class="leftcolumn">
