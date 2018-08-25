@@ -5,7 +5,7 @@ permalink: /GameReviews/
 ---
 
 
-html>
+<html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +30,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-row">
 
 <!-- Blog entries -->
-<div class="w3-col l8 s12">
+<div class="w3-col l8 s8">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
     <img src="/w3images/woods.jpg" alt="Nature" style="width:100%">
