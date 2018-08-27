@@ -30,7 +30,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-row">
 
 <!-- Blog entries -->
-<div class="w3-col l4 s1">
+<div class="w3-col l4 s4">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
     <img src="/w3images/woods.jpg" alt="Nature" style="width:100%">
@@ -140,4 +140,4 @@ and is wrapped around the whole page content, except for the footer in this exam
 </footer>
 
 </body>
-</html>>
+</html>
