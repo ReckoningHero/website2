@@ -5,7 +5,7 @@ permalink: /GameReviews/
 ---
 
 
-<html>
+
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,12 +30,12 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-row">
 
 <!-- Blog entries -->
-<div class="w3-col l8 s1">
+<div class="w3-col l4 s1">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
     <img src="/w3images/woods.jpg" alt="Nature" style="width:100%">
     <div class="w3-container">
-      <h3><b>God of War (2018) Review</b></h3>
+      <h3><b>TITLE HEADING</b></h3>
       <h5>Title description, <span class="w3-opacity">April 7, 2014</span></h5>
     </div>
 
@@ -131,7 +131,6 @@ and is wrapped around the whole page content, except for the footer in this exam
 <!-- END GRID -->
 </div><br>
 
-<!-- END w3-content -->
 
 <!-- Footer -->
 <footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
