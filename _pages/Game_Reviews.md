@@ -6,6 +6,8 @@ permalink: /GameReviews/
 
 
 
+
+
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,7 +20,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 <!-- w3-content defines a container for fixed size centered content,
 and is wrapped around the whole page content, except for the footer in this example -->
-<div class="w3-content" style="max-width:1400px">
+<div class="w3-content" style="max-width:800px">
 
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32">
