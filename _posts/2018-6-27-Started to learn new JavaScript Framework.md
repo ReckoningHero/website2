@@ -14,7 +14,6 @@ frameworks in the JavaScript universe such as Ember.js, Angular.js, React.js, Ba
 What kind of framework is better suited for me? Well, I've been studying some cases on some kind of framework on Angular, Node, and React.js, etc. With that in mind it is important to under
 
 ## Know the difference between Java and JavaScript
-=======
 What kind of framework is better suited for me? Well, I've been studying some cases on some kind of framework on Angular, Node, and React.js. afd
 
 
