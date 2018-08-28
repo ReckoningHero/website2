@@ -18,6 +18,10 @@ With programmers have the idea of "write once, run anywhere", many programmers a
 compatible Java system rather than compiling it to a separate executables to a completely different platform other than Java.  The case was made possible with the idea of Java Virtual Machine (JVM) which it can reads the JAR file and complies it into a specific instructions set at runtime, then executes it into an app.
 
 
+## What is JavaScript?
+
+JavaScript, also known as 
+
 # References
 
 [*Professional C++ (3rd Edition) by Marc Gregoire*]({{ "/assets/PDFs/w_make362.pdf" | absolute_url }})
