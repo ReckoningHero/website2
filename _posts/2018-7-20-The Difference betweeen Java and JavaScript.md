@@ -20,7 +20,7 @@ compatible Java system rather than compiling it to a separate executables to a c
 
 ## What is JavaScript?
 
-JavaScript, also known as 
+JavaScript on the other hand was made in mind of web development creation along side with HTML and CSS languages. Additionally, it was created to uphold modern features that regular HTML couldn't hold due to its limitations.
 
 # References
 
