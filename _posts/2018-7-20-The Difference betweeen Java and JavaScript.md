@@ -20,7 +20,7 @@ compatible Java system rather than compiling it to a separate executables to a c
 
 ## What is JavaScript?
 
-JavaScript on the other hand was made in mind of web development creation along side with HTML and CSS languages. Additionally, it was created to uphold modern features that regular HTML couldn't hold due to its limitations. HTML is the core language platform that enhances website's backbone. With the crazy amount of JavaScript technologies happening in 2018, many companies such as Facebook, Google, and Amazon are competing each other on what web development is suited for the industry and their customers. Other
+JavaScript on the other hand was made in mind of web development creation along side with HTML and CSS languages. Additionally, it was created to uphold modern features that regular HTML couldn't hold due to its limitations. HTML is the core language platform that enhances website's backbone. With the crazy amount of JavaScript technologies happening in 2018, many companies such as Facebook, Google, and Amazon are competing each other on what web development is suited for the industry and their customers. Other ways of doing JavaScript
 
 # References
 
