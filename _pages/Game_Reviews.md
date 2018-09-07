@@ -4,16 +4,6 @@ title: Game_Reviews
 permalink: /GameReviews/
 ---
 
-<div class="hero lazyload"data-bg="{{site.url}}/assets/img/posts/Game_Reviews.jpg">
-  <div class="hero__wrap">
-    <h1 class="hero__title">{{ page.Game_Reviews }}</h1>
-  </div>
-</div>
-<main class="site__content">
-
-  <div class="container">
-    <div class="page-content">
-    
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
