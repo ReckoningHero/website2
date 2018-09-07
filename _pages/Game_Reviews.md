@@ -4,6 +4,10 @@ title: Game_Reviews
 permalink: /GameReviews/
 ---
 
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 67745421a9efa4502209e26cd737537c19811c62
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
