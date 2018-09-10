@@ -5,6 +5,8 @@ permalink: /VR_Game/
 ---
 
 
+Web VR Game
+
 <html>
   <head>
     <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
