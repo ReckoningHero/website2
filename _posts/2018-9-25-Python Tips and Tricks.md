@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog #3: Python Tips and Tricks"
-featured-img: Artificial Intelligence
+featured-img: python_blog
 
 ---
 
