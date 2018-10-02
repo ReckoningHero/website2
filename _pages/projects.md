@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-featured-img: Project1
+featured-img: stock-portfolio
 permalink: /Portfolio/
 ---
 
