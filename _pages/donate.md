@@ -2,6 +2,7 @@
 layout: page
 title: Donation
 permalink: /donate/
+featured-img: donation
 ---
 ---
 Please donate to the site!
