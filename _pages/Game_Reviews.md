@@ -48,8 +48,8 @@ and is wrapped around the whole page content, except for the footer in this exam
   <div class="w3-card-4 w3-margin w3-white">
   <img src="/assets/w3images/octopathtravelerswitch.jpg" alt="octopathtravelerswitch" style="width:100%;height:200px">
     <div class="w3-container">
-      <h3><b>Octopath Traveler (2018)</b></h3>
-      <h5>Title description, <span class="w3-opacity">April 2, 2014</span></h5>
+      <h3><b>Octopath Traveler (2018) Review</b></h3>
+      <h5>A classic return to the Retro style 16-bits JRPG era!, <span class="w3-opacity">September 2, 2018</span></h5>
     </div>
 
     <div class="w3-container">
@@ -73,7 +73,7 @@ and is wrapped around the whole page content, except for the footer in this exam
   <!-- Posts -->
   <div class="w3-card w3-margin">
     <div class="w3-container w3-padding">
-      <h4>Popular Posts</h4>
+      <h4>Other Posts</h4>
     </div>
     <ul class="w3-ul w3-hoverable w3-white">
       <li class="w3-padding-16">
