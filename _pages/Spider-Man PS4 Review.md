@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /spider/
-featured-img: Project1
+featured-img: python_blog
 ---
 
 
