@@ -23,10 +23,10 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l8 s12">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="assets/w3images/spidermanps4.jpg" alt="Nature" style="width:100%;height:150px">
+    <img src="spidermanps4.jpg" alt="spidermanps4" style="width:100%;height:150px">
     <div class="w3-container">
       <h3><b>Spider-Man (2018) Review</b></h3>
-      <h5>Title description, <span class="w3-opacity">September 7, 2018</span></h5>
+      <h5>With Great Power comes Great Responsibility, <span class="w3-opacity">September 7, 2018</span></h5>
     </div>
 
     <div class="w3-container">
