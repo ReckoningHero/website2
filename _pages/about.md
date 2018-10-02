@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-featured-img: Project1
+featured-img: aboutme
 ---
 
 
@@ -16,6 +16,7 @@ featured-img: Project1
 
 ## Resume:
 [Resume 2018]({{ "/assets/PDFs/Resume May2018.pdf" | absolute_url }})
+
 
 
 
