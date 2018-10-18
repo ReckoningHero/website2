@@ -5,5 +5,5 @@ A personal project website that I created in  JavaScript, HTML, CSS, and some C#
 
 # Notes
 
-Uising
+Using
   
