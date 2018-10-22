@@ -29,9 +29,8 @@ and is wrapped around the whole page content, except for the footer in this exam
       <h3><b>Spider-Man (2018) Review</b></h3>
       <h5>With Great Power comes Great Responsibility, <span class="w3-opacity">September 7, 2018</span></h5>
     </div>
-
     <div class="w3-container">
-      <p>As the gaming industry is growing to become a more vital entertainment for gamers alike, Marvel's Spider-Man from Insomanic Games delivers a stunning, breathtaking world of Peter Parker's normal life and crime battles in the unprecended adventures in NYC. </p>
+      <p>Marvel's Spider-Man PS4 from Insomanic Games delivers a stunning, breathtaking world of Peter Parker's normal life and crime battles in the unprecended adventures in NYC. </p>
       <div class="w3-row">
         <div class="w3-col m8 s12">
           <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
@@ -51,7 +50,6 @@ and is wrapped around the whole page content, except for the footer in this exam
       <h3><b>Octopath Traveler (2018) Review</b></h3>
       <h5>A classic return to the Retro style 16-bits JRPG era!, <span class="w3-opacity">September 2, 2018</span></h5>
     </div>
-
     <div class="w3-container">
       <p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed
         tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
