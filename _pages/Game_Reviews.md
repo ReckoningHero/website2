@@ -30,7 +30,7 @@ and is wrapped around the whole page content, except for the footer in this exam
       <h5>With Great Power comes Great Responsibility, <span class="w3-opacity">September 7, 2018</span></h5>
     </div>
     <div class="w3-container">
-      <p>Marvel's Spider-Man PS4 from Insomanic Games delivers a stunning, breathtaking world of Peter Parker's normal life and crime battles in the unprecended adventures in NYC. </p>
+      <p>Marvel's Spider-Man PS4 from Insomanic Games delivers a stunning, breathtaking world of Peter Parker's normal life and crime battles in the unprecended adventures in NYC.</p>
       <div class="w3-row">
         <div class="w3-col m8 s12">
           <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
