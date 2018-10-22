@@ -31,7 +31,7 @@ and is wrapped around the whole page content, except for the footer in this exam
     </div>
 
     <div class="w3-container">
-      <p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem </p>
+      <p>As the gaming industry is growing to become a more vital entertainment for gamers alike, Marvel's Spider-Man from Insomanic Games delivers a stunning, breathtaking world of Peter Parker's normal life and crime battles in the unprecended adventures in NYC. </p>
       <div class="w3-row">
         <div class="w3-col m8 s12">
           <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
