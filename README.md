@@ -5,5 +5,5 @@ A personal project website that I created in  JavaScript, HTML, CSS, and some C#
 
 # Notes
 
-Using the obstancles for the pages and sites. Using the latest HTML5 and CSS3 
+Using this website for the pages and sites. Using the latest HTML5 and CSS3 
   
