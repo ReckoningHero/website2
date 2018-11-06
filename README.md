@@ -5,5 +5,5 @@ A personal project website that I created in  JavaScript, HTML, CSS, and some C#
 
 # Notes
 
-Using this website for the pages and sites. Using the latest HTML5, CSS3, and JavaScript. The 
+Using this website for the pages and sites. Using the latest HTML5, CSS3, and JavaScript. The website can vary from blogs and notes from projects from portfolio.
   
