@@ -23,7 +23,7 @@ Check back for more updates in the near future!
 
 | C++/C#/Java/Python Projects            |     Description   | Download Links        |
 | :---                |     :----        |                   ---:|
-| **C# .NET: Private Browser** (*Work In Progress*)   |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a>
+| **C# .NET: Private Browser** (*Work In Progress*)  ![Ardunio Unity Project](/assets/img/Project1.JPG) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a>
 
 
 
