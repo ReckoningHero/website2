@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Source_Code
-permalink: /sourcecode/
+permalink: /Source_Code/
 featured-img: gamereview
 ---
 
