@@ -2,7 +2,7 @@
 layout: page
 title: Source Code
 permalink: /Source_Code/
-featured-img: code
+featured-img: Source_Code
 ---
 
 # Source_Code
