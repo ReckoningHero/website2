@@ -29,6 +29,9 @@ featured-img: aboutme
 ## LinkedIn:
 [My LinkedIn Profile ](https://www.linkedin.com/in/joshuanguyensoft1995)
 
+## Remote:
+https://remote.com/joshuan
+
 ## Google Hangout:
 
 
