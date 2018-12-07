@@ -30,12 +30,11 @@ featured-img: aboutme
 [My LinkedIn Profile ](https://www.linkedin.com/in/joshuanguyensoft1995)
 
 ## Remote:
-https://remote.com/joshuan
+[Remote Profile ](https://remote.com/joshuan)
 
 ## Repl.it:
-https://repl.it/@twinb0rn
+[Repl.it Profile](https://repl.it/@twinb0rn)
 
-## Google Hangout:
 
 
 ## Discord:
