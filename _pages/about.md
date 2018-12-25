@@ -18,7 +18,7 @@ featured-img: aboutme
 ---
 
 ## Resume:
-[Resume 2018]({{ "/assets/PDFs/Resume 2019.pdf" | absolute_url }})
+[Resume 2019]({{ "/assets/PDFs/Resume 2019.pdf" | absolute_url }})
 ![image tooltip here](/assets/img/Resume.JPG)
 ---
 ---
@@ -34,8 +34,6 @@ featured-img: aboutme
 
 ## Repl.it:
 [Repl.it Profile](https://repl.it/@twinb0rn)
-
-
 
 ## Discord:
 twinb0rn#7898
