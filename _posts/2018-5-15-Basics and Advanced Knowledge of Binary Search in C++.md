@@ -6,7 +6,7 @@ mathjax: true
 
 ---
 ## Basic Knowledge of C++'s Binary Search
-C++ offers the ability to demonstrate the search for algorithm that requires any particular array to be sorted out before any 
+C++ offers the ability to demonstrate the search for algorithm that requires any particular array to be sorted out before any
 search is applied from the user. What you learned in your introductory classes in college or maybe (hopefully) teach yourself is
 the ability to understand how algorithm itself is sorted to find an item in an ordered list. The objective to demonstrate the algorithm
 is to be able to discard half of the array within each iteration and leave the final value output of the code.
@@ -114,5 +114,5 @@ a value of true if the value is set in the specified range, otherwise it can ret
 
 ```
 ## References
-# Professional C++ (3rd Edition) by Marc Gregoire PDF File
+---
 [Professional C++ (3rd Edition) by Marc Gregoire]({{ "/assets/PDFs/Professional C++ (3rd Edition) by Marc Gregoire 2014 PDF.pdf" | absolute_url }})
