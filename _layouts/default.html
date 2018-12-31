@@ -27,25 +27,21 @@ layout: compress
         <p class="hero__meta">Blogs are updated weekly! Check back for more!</p>
       </div>
     </div>
+    <main class="site__content">
+      <section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-    <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/R3cpQ9R.gif">
-      <div class="hero__wrap">
-        <main class="site__content">
-          <section class="blog">
-            <div class="container">
-              <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+            {% for post in site.posts %}
+              {% include card.html %}
+            {% endfor %}
 
-                {% for post in site.posts %}
-                  {% include card.html %}
-                {% endfor %}
+            <!-- {% include pagination.html %} -->
+          </div>
+        </div>
+      </section>
+    </main>
 
-                <!-- {% include pagination.html %} -->
-              </div>
-            </div>
-          </section>
-        </main>
-      </div>
-    </div>
     {% include index.html %}
     <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/source_code.gif">
       <div class="hero__wrap">
