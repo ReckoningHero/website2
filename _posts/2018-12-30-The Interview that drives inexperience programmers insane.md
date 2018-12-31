@@ -13,9 +13,14 @@ When we applying for a job, especially in the field in technology, we must consi
 
 With the industry constantly changing and yet adapting the course of brand new technologies over the pass decade, it is important to acknowledge that many top tier companies such as Google, Amazon, Facebook, Microsoft, and Apple wants to hire a person who can actually know how to code while being hired on the spot from the recruiter. Companies are afraid of losing their profits and especially their talent strength from laying off or firing many people who don't know how to code. In addition, they have to spent on average about $4,000 per person to actually be hired, otherwise it would be a waste of time and resources for the company to hire this particular person in the first place. In a famous research paper from MIT from 2005, if the employee has a base salary of $50,000 per year working with the company, the employer has to pay from the range of $62,500 to $70,000 per year. However, nowadays, the salaries of those employees have to increase by 2.7% within each year for businesses to be more incentive and appealing to work for. In conclusion, the employer has to spent more than the salary of the employee in order to maintain their company for competitiveness and integrity in today's market.
 
+# Is interviewing the candidate from using white board a bad way to measure one's true understanding of algorithm and software development?
+
+Job candidate who has a bad rote memorization can have a hard time to remember what the algorithm can affect the way of actually writing real-world software development. Task-wise, it is a common mistake to not remember a particular algorithm from its syntax and supposed imported libraries regarding which programming language the company or individual employer uses on a daily basis.
+
 
 # Drawing and Writing the Algorithms and Data Structures
-Drawing algorithms on the white board can be very pressured, mind-numbing, and stressful for a inexperienced candidate who is trying to get his or her first real job in the real world. When big tech companies are arbitrarily inquiring each candidate one by one within each interview, the candidates who are in the second phase of the interview are most likely to be rejected or didn't get a response from the companies they applied to. 
+
+Drawing algorithms on the white board can be very pressured, mind-numbing, and stressful for a inexperienced candidate who is trying to get his or her first real job in the real world. When big tech companies are arbitrarily inquiring each candidate one by one within each interview, the candidates who are in the white board phase of the interview are most likely to be rejected or didn't get a response from the companies they applied to. Some cases, it is the candidate that didn't understand the algorithm given question or in other case, it is the companies' hidden intention of actually protecting their own assets from "ineffective developers", even if the candidate actually understand and wrote the code right.
 
 
 
@@ -36,3 +41,6 @@ Drawing algorithms on the white board can be very pressured, mind-numbing, and s
 Hadzima , Joe. “How Much Does An Employee Cost?” Maritime Theater, 2005, web.mit.edu/e-club/hadzima/how-much-does-an-employee-cost.html.
 
 Hill, Vanessa. “Average Cost-per-Hire for Companies Is $4,129, SHRM Survey Finds.” SHRM, SHRM, 19 May 2017, www.shrm.org/about-shrm/press-room/press-releases/pages/human-capital-benchmarking-report.aspx.
+
+https://medium.freecodecamp.org/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db
+https://medium.com/@pfernandom/are-whiteboard-coding-interviews-really-that-bad-3e60e2efd81
