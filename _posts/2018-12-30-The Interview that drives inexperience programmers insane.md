@@ -20,7 +20,7 @@ Job candidate who has a bad rote memorization can have a hard time to remember w
 
 # Drawing and Writing the Algorithms and Data Structures
 
-Drawing algorithms on the white board can be very pressured, mind-numbing, and stressful for a inexperienced candidate who is trying to get his or her first real job in the real world. When big tech companies are arbitrarily inquiring each candidate one by one within each interview, the candidates who are in the white board phase of the interview are most likely to be rejected or didn't get a response from the companies they applied to. Some cases, it is the candidate that didn't understand the algorithm given question or in other case, it is the companies' hidden intention of actually protecting their own assets from "ineffective developers", even if the candidate actually understand and wrote the code right.
+Drawing algorithms on the white board can be very pressured, mind-numbing, and stressful for a inexperienced candidate who is trying to get his or her first real job in the real world. When big tech companies are arbitrarily inquiring each candidate one by one within each interview, the candidates who are in the white board phase of the interview are most likely to be rejected or didn't get a response from the companies they applied to. Some cases, it is the candidate that didn't understand the algorithm given question or in other case, it is the companies' hidden intention of actually protecting their own assets from "ineffective developers", even if the candidate actually understand and wrote the code right. With 
 
 
 
@@ -38,6 +38,7 @@ Drawing algorithms on the white board can be very pressured, mind-numbing, and s
 
 
 ## References
+---
 Hadzima , Joe. “How Much Does An Employee Cost?” Maritime Theater, 2005, web.mit.edu/e-club/hadzima/how-much-does-an-employee-cost.html.
 
 Hill, Vanessa. “Average Cost-per-Hire for Companies Is $4,129, SHRM Survey Finds.” SHRM, SHRM, 19 May 2017, www.shrm.org/about-shrm/press-room/press-releases/pages/human-capital-benchmarking-report.aspx.
