@@ -26,6 +26,8 @@ Let's take various of coding examples from a fascinating book I have been readin
 
 
 
+![image](/assets/img/1_3wn7FLjhZ3aynRQyTdDD4Q.jpeg)
+
 
 
 
