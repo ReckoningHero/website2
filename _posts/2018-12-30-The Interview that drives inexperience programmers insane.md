@@ -45,6 +45,6 @@ Hadzima , Joe. “How Much Does An Employee Cost?” Maritime Theater, 2005, web
 
 Hill, Vanessa. “Average Cost-per-Hire for Companies Is $4,129, SHRM Survey Finds.” SHRM, SHRM, 19 May 2017, www.shrm.org/about-shrm/press-room/press-releases/pages/human-capital-benchmarking-report.aspx.
 
-https://medium.freecodecamp.org/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db
+10100956570023241. “Why Is Hiring Broken? It Starts at the Whiteboard. – FreeCodeCamp.org.” FreeCodeCamp.org, FreeCodeCamp.org, 29 Apr. 2016, https://medium.freecodecamp.org/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db.
 
 https://medium.com/@pfernandom/are-whiteboard-coding-interviews-really-that-bad-3e60e2efd81
