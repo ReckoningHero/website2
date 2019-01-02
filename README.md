@@ -10,6 +10,6 @@ Using this website for the pages and sites. Using the latest HTML5, CSS3, and Ja
 #Reference
 
 A:  Added Duckduckgo search engine from this generator: https://duckduckgo.com/search_box
-B:
+B:  Added
 C:
 D:
