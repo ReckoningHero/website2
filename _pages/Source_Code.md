@@ -10,12 +10,6 @@ Here is the list of source codes that I created!
 ## C++
 ---
 ---
-
-
-
-Tic Tac Toe
----
----
 [Tic Tac Toe](https://repl.it/@twinb0rn/TicTacToe)
 
 
@@ -25,6 +19,6 @@ Tic Tac Toe
 
 
 
-## C#
+## C# (ASP.NET)
 ---
 ---
