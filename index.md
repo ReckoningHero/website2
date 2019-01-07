@@ -5,5 +5,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Website2
----
+title: Personal
