@@ -19,7 +19,7 @@ featured-img: aboutme
 
 ## Resume:
 [Resume 2019]({{ "/assets/PDFs/Resume 2019.pdf" | absolute_url }})
-![image tooltip here](/assets/img/Resume.JPG)
+![image tooltip here](/assets/img/Resume2.JPG)
 ---
 ---
 
