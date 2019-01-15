@@ -13,4 +13,3 @@ A:  Added Duckduckgo search engine from this generator: https://duckduckgo.com/s
 B:  Added with some engine from the HTML5 and CSS3
 C:
 D:
-
