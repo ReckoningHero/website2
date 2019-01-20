@@ -22,7 +22,7 @@ Job candidate who has a bad rote memorization can have a hard time to remember w
 # What questions would the employer askes regarding to Data Structures of the Algorithm?
 ![image](/assets/img/source.gif)
 
-Let's take various of coding examples from a fascinating book I have been reading, "Cracking the Coding Interview" by Gale Laakmann McDowell! Her examples of understanding algorithm takes us to a whole new level of comprehensive algorithm understanding.
+Let's take various of coding examples from a fascinating book I have been reading, "Cracking the Coding Interview" by Gale Laakmann McDowell! Her examples of understanding algorithm takes us to a whole new level of comprehensive algorithm understanding. According to her excerpt, she undermines how can algorithm questions can be tasking to some people who only knows the practical applications of coding rather than the theoretical approach of writing code.
 
 
 
