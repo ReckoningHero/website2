@@ -27,11 +27,18 @@ In a object oriented programming language such as Java, it is important to under
 ### Abstraction
 The first fundamental concept of OOPs is Abstraction. Abstraction is the process in which you show only the relevant data and hide the unnecessary details of an object from the user.
 
+
+![image](/assets/img/Abstract Class in Java with Example.png)
+
 ### Encapsulation
 Encapsulation is one of the fundamentals of OOP (object-oriented programming). It refers to the bundling of data with the methods that operate on that data.
 
+![image](/assets/img/java-encapsulation.png)
+
 ### Inheritance
 Inheritance is one of the core concepts of Object-Oriented Programming regarding to deriving from class for a hierarchy of classes that share the same attributes, methods, and similar sets of algorithm.
+
+![image](/assets/img/java-types-of-inheritance.jpg.png)
 
 ### Polymorphism
 Polymorphism is the provision of a single interface to entities of many different types from the data. This applies to object oriented programming a lot when many subclasses of the class are define from their own unique behaviors.
