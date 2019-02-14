@@ -38,7 +38,7 @@ Encapsulation is one of the fundamentals of OOP (object-oriented programming). I
 ### Inheritance
 Inheritance is one of the core concepts of Object-Oriented Programming regarding to deriving from class for a hierarchy of classes that share the same attributes, methods, and similar sets of algorithm.
 
-![image](/assets/img/java-types-of-inheritance.jpg.png)
+![image](/assets/img/java-types-of-inheritance.jpg)
 
 ### Polymorphism
 Polymorphism is the provision of a single interface to entities of many different types from the data. This applies to object oriented programming a lot when many subclasses of the class are define from their own unique behaviors.
