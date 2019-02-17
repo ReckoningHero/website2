@@ -7,7 +7,7 @@ A personal project website that I created in  JavaScript, HTML, CSS, and some C#
 
 Using this website for the pages and sites. Using the latest HTML5, CSS3, and JavaScript. The website can vary from blogs and notes from projects from portfolio. Also, this site has
 
-#Reference
+# Reference
 
 A:  Added Duckduckgo search engine from this generator: https://duckduckgo.com/search_box
 
