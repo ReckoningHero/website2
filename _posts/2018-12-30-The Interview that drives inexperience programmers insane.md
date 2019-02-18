@@ -34,13 +34,6 @@ Let's take various of coding examples from a fascinating book I have been readin
 
 
 
-
-
-
-
-
-
-
 ## References
 ---
 Hadzima , Joe. “How Much Does An Employee Cost?” Maritime Theater, 2005, web.mit.edu/e-club/hadzima/how-much-does-an-employee-cost.html.
