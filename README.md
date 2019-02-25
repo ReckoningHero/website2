@@ -24,3 +24,5 @@ B:  Added with some engine from the HTML5 and CSS3
 C:  Create a blog posts that can influence any wannabe programmers to learn how to code theorically and pratically. 
 
 D:  Change copyright name and year.
+
+E:  Add seach engine on the homepage for end user to search case-sensative words exactly. 
