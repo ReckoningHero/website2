@@ -25,4 +25,4 @@ C:  Create a blog posts that can influence any wannabe programmers to learn how 
 
 D:  Change copyright name and year.
 
-E:  Add seach engine on the homepage for end user to search case-sensative words exactly. 
+E:  Add seach engine on the homepage for end user to search case-sensative words exactly.
