@@ -25,6 +25,8 @@ featured-img: aboutme
 
 # Social media
 
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ## LinkedIn:
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joshuanguyensoft1995"><a class="LI-simple-link" href='https://www.linkedin.com/in/joshuanguyensoft1995?trk=profile-badge'>My LinkedIn Profile</a></div>
