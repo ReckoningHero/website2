@@ -26,7 +26,7 @@ Check back for more updates in the near future!
      <div class = "img">
      <img src="paperpedia.jpg" clas = "img-fluid" alt="">
 <button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;">
-<a href="http://www.mediafire.com/file/mnq1h193ohrcg9m/DownToTheWire_Gold_Release.rar" download>Download</a> </button>
+<a href="http://www.mediafire.com/file/mnq1h193ohrcg9m/DownToTheWire_Gold_Release.rar" >Download</a> </button>
             </div>
         </div>
         <div class = "col-sm-2">
