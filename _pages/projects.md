@@ -33,6 +33,8 @@ Check back for more updates in the near future!
         </div>
     </div>
 </body> 
+----
+----
 
 | **The Way Out Game** (*Unity*)            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
