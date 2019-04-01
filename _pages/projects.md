@@ -111,22 +111,13 @@ Check back for more updates in the near future!
      <div class = "img">
      <img src="paperpedia.jpg" clas = "img-fluid" alt="">
 <button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;">
-<a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a>
+<a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a> </button>
             </div>
         </div>
         <div class = "col-sm-2">
         </div>
     </div>
 </body> 
-
-| **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | Video   |
-| :---                |     :----        |                   ---:|
-|  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a
-
-
-
-----
-----
 
 
 # 3D Models Design
