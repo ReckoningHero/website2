@@ -14,7 +14,10 @@ Check back for more updates in the near future!
 
 | Game Projects            |     Description   | Download Links        |
 | :---                |     :----        |                   ---:|
-| **Ardunio Simulation** (*Unity*) ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)| 
+| **Ardunio Simulation** (*Unity*) ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)
+| 
+
+
 <body>
     <div class = "row">
         <div class ="col-sm2">
