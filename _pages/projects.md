@@ -29,7 +29,11 @@ Check back for more updates in the near future!
         <div class = "col-sm-2">
         </div>
     </div>
-</body>
+</body> |
+
+
+
+
 | **The Way Out Game** (*Unity*)    ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         |<a href="http://www.mediafire.com/file/s5kbq3nsncm2880/The%20Way%20Out%20Gold%20Release.zip" download>Download</a>   
 | **C++ DirectX Framework:  X Marks the Spot**  ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment                  |        <a href="https://github.com/ReckoningHero/X-Marks-the-Spot"  download>Download</a>            
 | **Project** (*Unreal Engine 4*) (*Work In Progress*) |INDIVIDUAL PROJECT:  RPG Game                |        <a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>             
