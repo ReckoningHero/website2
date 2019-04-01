@@ -12,10 +12,10 @@ permalink: /Portfolio/
 Check back for more updates in the near future!
 
 
-| Game Projects            |     Description   | Download Links        |
+| Game Projects            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
 | **Ardunio Simulation** (*Unity*) ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)
-| 
+
 
 
 <body>
@@ -32,7 +32,7 @@ Check back for more updates in the near future!
         <div class = "col-sm-2">
         </div>
     </div>
-</body> |
+</body> 
 
 
 
@@ -42,7 +42,7 @@ Check back for more updates in the near future!
 | **Project** (*Unreal Engine 4*) (*Work In Progress*) |INDIVIDUAL PROJECT:  RPG Game                |        <a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>             
 
 
-| C++/C#/Java/Python Projects            |     Description   | Download Links        |
+| C++/C#/Java/Python Projects            |     Description   | Video   |
 | :---                |     :----        |                   ---:|
 | **C# .NET: Private Browser** (*Work In Progress*)  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a>
 
