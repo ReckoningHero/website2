@@ -36,7 +36,7 @@ Check back for more updates in the near future!
 
 | **The Way Out Game** (*Unity*)            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
-|  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         |<a href="http://www.mediafire.com/file/s5kbq3nsncm2880/The%20Way%20Out%20Gold%20Release.zip" download>Download</a>   
+|  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         | 
 
 
 <body>
@@ -57,7 +57,7 @@ Check back for more updates in the near future!
 
 | **C++ DirectX Framework:  X Marks the Spot**            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
-| ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment                  |        <a href="https://github.com/ReckoningHero/X-Marks-the-Spot"  download>Download</a>            
+| ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment                  |                 
 
 
 <body>
