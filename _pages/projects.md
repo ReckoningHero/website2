@@ -120,13 +120,14 @@ Check back for more updates in the near future!
 </body> 
 
 | **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | Video   |
+| :---                |     :----        |                   ---:|
+|  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a
 
 
 
 ----
----
-
 ----
+
 
 # 3D Models Design
 
