@@ -33,15 +33,13 @@ Check back for more updates in the near future!
         </div>
     </div>
 </body> 
-----
-----
+
 
 | **The Way Out Game** (*Unity*)            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
 |  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         | 
 
-----
-----
+
 
 <body>
     <div class = "row">
@@ -59,14 +57,12 @@ Check back for more updates in the near future!
     </div>
 </body> 
 
-----
-----
+
 | **C++ DirectX Framework:  X Marks the Spot**            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
 | ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment                  |                 
 
-----
-----
+
 <body>
     <div class = "row">
         <div class ="col-sm2">
@@ -89,8 +85,7 @@ Check back for more updates in the near future!
 | :---                |     :----        |                   ---:|
 | (*Unreal Engine 4*)  |INDIVIDUAL PROJECT:  RPG Game                |        <a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>            
 
-----
-----
+
 <body>
     <div class = "row">
         <div class ="col-sm2">
@@ -106,15 +101,13 @@ Check back for more updates in the near future!
         </div>
     </div>
 </body> 
-----
-----
+
 
 | **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | Video   |
 | :---                |     :----        |                   ---:|
 |  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser" >Download</a>
 
-----
-----
+
 <body>
     <div class = "row">
         <div class ="col-sm2">
