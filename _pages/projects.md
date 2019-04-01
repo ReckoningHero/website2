@@ -37,6 +37,8 @@ Check back for more updates in the near future!
 | Game Projects            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
 | **The Way Out Game** (*Unity*)    ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         |<a href="http://www.mediafire.com/file/s5kbq3nsncm2880/The%20Way%20Out%20Gold%20Release.zip" download>Download</a>   
+
+
 <body>
     <div class = "row">
         <div class ="col-sm2">
@@ -56,6 +58,8 @@ Check back for more updates in the near future!
 | Game Projects            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
 | **C++ DirectX Framework:  X Marks the Spot**  ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment                  |        <a href="https://github.com/ReckoningHero/X-Marks-the-Spot"  download>Download</a>            
+
+
 <body>
     <div class = "row">
         <div class ="col-sm2">
@@ -75,6 +79,8 @@ Check back for more updates in the near future!
 | Game Projects            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
 | **Project** (*Unreal Engine 4*) (*Work In Progress*) |INDIVIDUAL PROJECT:  RPG Game                |        <a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>            
+
+
 <body>
     <div class = "row">
         <div class ="col-sm2">
