@@ -47,7 +47,7 @@ Check back for more updates in the near future!
      <div class = "img">
      <img src="paperpedia.jpg" clas = "img-fluid" alt="">
 <button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;">
-<a href="http://www.mediafire.com/file/s5kbq3nsncm2880/The%20Way%20Out%20Gold%20Release.zip" download>Download</a>  </button>
+<a href="http://www.mediafire.com/file/s5kbq3nsncm2880/The%20Way%20Out%20Gold%20Release.zip" >Download</a>  </button>
             </div>
         </div>
         <div class = "col-sm-2">
@@ -68,7 +68,7 @@ Check back for more updates in the near future!
      <div class = "img">
      <img src="paperpedia.jpg" clas = "img-fluid" alt="">
 <button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;">
-<a href="https://github.com/ReckoningHero/X-Marks-the-Spot"  download>Download</a>  </button>
+<a href="https://github.com/ReckoningHero/X-Marks-the-Spot" >Download</a>  </button>
             </div>
         </div>
         <div class = "col-sm-2">
@@ -89,7 +89,7 @@ Check back for more updates in the near future!
      <div class = "img">
      <img src="paperpedia.jpg" clas = "img-fluid" alt="">
 <button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;">
-<a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a> </button>
+<a href="https://github.com/ReckoningHero/Unreal-Engine-4" >Download</a> </button>
             </div>
         </div>
         <div class = "col-sm-2">
@@ -100,7 +100,7 @@ Check back for more updates in the near future!
 
 | **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | Video   |
 | :---                |     :----        |                   ---:|
-|  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a>
+|  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser" >Download</a>
 
 
 <body>
@@ -119,9 +119,9 @@ Check back for more updates in the near future!
     </div>
 </body> 
 
-
+----
 # 3D Models Design
-
+----
 ----
 
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/591f255323664e13acc582836132aeeb/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
