@@ -14,7 +14,7 @@ Check back for more updates in the near future!
 
 | **Ardunio Simulation** (*Unity*)          |     Description   | Videos |
 | :---                |     :----        |                   ---:|
-| [Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)
+| ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)
 
 
 
