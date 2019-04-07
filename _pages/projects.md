@@ -126,6 +126,32 @@ Check back for more updates in the near future!
 
 ----
 ----
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js">
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.sound.js">
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.js">
+	</script>
+	<script src="https://rawgit.com/diwi/p5.EasyCam/master/p5.easycam.js">
+	</script>
+	<script src="cube.js">
+	</script>
+	<script src="sketch.js">
+	</script>
+</head>
+<body>
+</body>
+</html>
+
+
+
 # 3D Models Design
 ----
 ----
