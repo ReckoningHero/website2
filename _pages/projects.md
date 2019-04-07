@@ -123,11 +123,12 @@ Check back for more updates in the near future!
     </div>
 </body> 
 
+
 ## Interactive 3D Animation
+---
+---
 
 <!DOCTYPE html>
-<html lang="en">
-
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -144,9 +145,7 @@ Check back for more updates in the near future!
 	<script src="/_js/sketch.js">
 	</script>
 </head>
-<body>
-</body>
-</html>
+
 
 
 
