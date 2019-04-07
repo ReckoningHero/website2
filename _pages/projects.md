@@ -78,8 +78,7 @@ Check back for more updates in the near future!
         </div>
     </div>
 </body> 
-----
-----
+
 
 | **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   | Videos |
 | :---                |     :----        |                   ---:|
@@ -116,7 +115,7 @@ Check back for more updates in the near future!
      <div class = "img">
      <img src="paperpedia.jpg" clas = "img-fluid" alt="">
 <button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;">
-<a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser"  download>Download</a> </button>
+<a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser">Download</a> </button>
             </div>
         </div>
         <div class = "col-sm-2">
@@ -124,8 +123,7 @@ Check back for more updates in the near future!
     </div>
 </body> 
 
-----
-----
+
 
 <!DOCTYPE html>
 <html lang="en">
