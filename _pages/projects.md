@@ -140,9 +140,9 @@ Check back for more updates in the near future!
 	</script>
 	<script src="https://rawgit.com/diwi/p5.EasyCam/master/p5.easycam.js">
 	</script>
-	<script src="/_js/cube.js">
+	<script src="cube.js">
 	</script>
-	<script src="/_js/sketch.js">
+	<script src="sketch.js">
 	</script>
 </head>
 
