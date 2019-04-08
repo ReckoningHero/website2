@@ -12,8 +12,8 @@ permalink: /Portfolio/
 Check back for more updates in the near future!
 
 
-| **Ardunio Simulation** (*Unity*)          |     Description   | Videos |
-| :---                |     :----        |                   ---:|
+| **Ardunio Simulation** (*Unity*)          |     Description   | 
+| :---                |     :----        |                 
 | ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)
 
 
@@ -35,8 +35,8 @@ Check back for more updates in the near future!
 </body> 
 
 
-| **The Way Out Game** (*Unity*)            |     Description   | Videos |
-| :---                |     :----        |                   ---:|
+| **The Way Out Game** (*Unity*)            |     Description   |
+| :---                |     :----        |                  
 |  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         | 
 
 
@@ -58,8 +58,8 @@ Check back for more updates in the near future!
 </body> 
 
 
-| **C++ DirectX Framework:  X Marks the Spot**            |     Description   | Videos |
-| :---                |     :----        |                   ---:|
+| **C++ DirectX Framework:  X Marks the Spot**            |     Description   | 
+| :---                |     :----        |             
 | ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment                  |                 
 
 
@@ -80,8 +80,8 @@ Check back for more updates in the near future!
 </body> 
 
 
-| **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   | Videos |
-| :---                |     :----        |                   ---:|
+| **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   | 
+| :---                |     :----        |                
 | (*Unreal Engine 4*)  |INDIVIDUAL PROJECT:  RPG Game                |        <a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>            
 
 
@@ -102,8 +102,8 @@ Check back for more updates in the near future!
 </body> 
 
 
-| **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | Video   |
-| :---                |     :----        |                   ---:|
+| **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | 
+| :---                |     :----        |                  
 |  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser" >Download</a>
 
 
