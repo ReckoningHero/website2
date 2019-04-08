@@ -80,6 +80,39 @@ layout: compress
     </script>
     <!-- Google Adsense HTML Code -->
     
+    
+                      <body>
+                  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+                  <script>
+                    jQuery('body').css('display','none');
+                    jQuery(document).ready(function() {
+                      jQuery('body').fadeIn();
+                      jQuery('a').on('click',function(event){
+                        var thetarget = this.getAttribute('target')
+                        if (thetarget != "_blank"){			
+                          var thehref = this.getAttribute('href')
+                          event.preventDefault();
+                          jQuery('body').fadeOut(function(){
+                            //alert(thehref)
+                            window.location = thehref					
+                          });
+                        }
+                      });
+                    });
+                    setTimeout(function(){
+                      jQuery('body').fadeIn();
+                    },1000)
+                  </script>
+                  <div id="wrapper">
+                  Lorum Ipsum...
+                  </div>
+                  </body>
+    
+    
+    
+    
+    
+    
 
 <script type="text/javascript"  charset="utf-8">
 // Place this code snippet near the footer of your page before the close of the /body tag
