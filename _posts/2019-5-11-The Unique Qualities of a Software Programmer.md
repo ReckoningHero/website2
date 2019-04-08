@@ -10,3 +10,7 @@ When I started learning programming on own free will many years ago, I thought t
 
 
 So what is a software developer in fact and what qualities qualify who he or she really is? Well, let me put it this way! The old stereotype that a software developers and programmers are all geeky, square-glasses, anti-social, and sometimes even disgusting from lack of personal hygiene has become irrelevant for decades.
+In today's world,
+
+
+More to come on 5/11
