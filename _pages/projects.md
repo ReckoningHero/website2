@@ -60,7 +60,7 @@ Check back for more updates in the near future!
 | **C++ DirectX Framework:  X Marks the Spot**            |     Description   | 
 | :---                |     :----        |             
 | ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment        
-Note: A DirextX 3D game I made back when I finished up high school. Easy API interface to make an excuetable program to intialize an algorithm that let the user move in a 2D array/if-else coordinations in real time environment.           |                 
+Note: A DirextX 3D game I made back when I finished up back in high school. Easy API interface to make an excuetable program to intialize an algorithm that let the user move in a 2D array/if-else coordinations in real time environment.           |                 
 
 
 <body>
@@ -104,7 +104,8 @@ Note: A DirextX 3D game I made back when I finished up high school. Easy API int
 
 | **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | 
 | :---                |     :----        |                  
-|  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.               |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser" >Download</a>
+|  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.              
+Note: Debugged and ulitized with the latest .NET Framework 4.73 using x64 architecture |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser" >Download</a>
 
 
 <body>
