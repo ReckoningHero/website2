@@ -59,7 +59,8 @@ Check back for more updates in the near future!
 
 | **C++ DirectX Framework:  X Marks the Spot**            |     Description   | 
 | :---                |     :----        |             
-| ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment        Note: A DirextX 3D game I made back when I finished up high school. Easy API interface to make an excuetable program to intialize an algorithm that let the user move in a 2D array/if-else coordinations in real time environment.           |                 
+| ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment        
+Note: A DirextX 3D game I made back when I finished up high school. Easy API interface to make an excuetable program to intialize an algorithm that let the user move in a 2D array/if-else coordinations in real time environment.           |                 
 
 
 <body>
