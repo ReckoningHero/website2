@@ -77,7 +77,8 @@ Note: A DirextX 3D game I made back when I finished up back in high school. Easy
         <div class = "col-sm-2">
         </div>
     </div>
-</body> 
+</body>   |
+
 
 
 | **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   | 
