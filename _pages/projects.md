@@ -60,7 +60,21 @@ Check back for more updates in the near future!
 | **C++ DirectX Framework:  X Marks the Spot**            |     Description   | 
 | :---                |     :----        |             
 | ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment        
-Note: A DirextX 3D game I made back when I finished up back in high school. Easy API interface to make an excuetable program to intialize an algorithm that let the user move in a 2D array/if-else coordinations in real time environment.           |                 
+Note: A DirextX 3D game I made back when I finished up back in high school. Easy API interface to make an excuetable program to intialize an algorithm that let the user move in a 2D array/if-else coordinations in real time environment.           |          <body>
+    <div class = "row">
+        <div class ="col-sm2">
+        </div>
+        <div class = "col-sm-8">
+     <div class = "img">
+     <img src="paperpedia.jpg" clas = "img-fluid" alt="">
+<button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;">
+<a href="https://github.com/ReckoningHero/X-Marks-the-Spot" >Download</a>  </button>
+            </div>
+        </div>
+        <div class = "col-sm-2">
+        </div>
+    </div>
+</body>          
 
 
 <body>
@@ -77,7 +91,7 @@ Note: A DirextX 3D game I made back when I finished up back in high school. Easy
         <div class = "col-sm-2">
         </div>
     </div>
-</body>   |
+</body>   
 
 
 
