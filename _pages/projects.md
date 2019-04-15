@@ -125,7 +125,6 @@ Note: Debugged and ulitized with the latest .NET Framework 4.73 using x64 archit
     </div>
 </body> 
 
-
 # Interactive 3D Animation
 ---
 ---
@@ -143,7 +142,6 @@ Note: Debugged and ulitized with the latest .NET Framework 4.73 using x64 archit
 </script>
 <script src="sketch.js">
 </script>
-
 
 
 
