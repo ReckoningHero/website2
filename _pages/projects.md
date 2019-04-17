@@ -83,7 +83,21 @@ Note: A DirextX 3D game I made back when I finished up back in high school. Easy
 
 | **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   | 
 | :---                |     :----        |                
-| (*Unreal Engine 4*)  |INDIVIDUAL PROJECT:  RPG Game                |        <a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>            
+| (*Unreal Engine 4*)  |INDIVIDUAL PROJECT:  RPG Game                |        <body>
+    <div class = "row">
+        <div class ="col-sm2">
+        </div>
+        <div class = "col-sm-8">
+     <div class = "img">
+     <img src="paperpedia.jpg" clas = "img-fluid" alt="">
+<button type="button" class="button" class="btn btn-indigo btn-lg" style="float:right;"><a href="https://github.com/ReckoningHero/Unreal-Engine-4"  download>Download</a>            
+     </div>
+        </div>
+        <div class = "col-sm-2">
+        </div>
+    </div>
+</body> 
+
 
 
 <body>
