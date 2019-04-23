@@ -11,7 +11,6 @@ Using this website for the pages and sites. Using the latest HTML5, CSS3, and Ja
 
 # Reference
 
-A:  
 
 B:  Added with some engine from the HTML5 and CSS3
 
