@@ -13,6 +13,8 @@ So what is a software developer in fact and what qualities qualify who he or she
 In today's world,
 
 
+![image](/assets/img/Software.gif)
+
 
 
 More to come on 5/11/2019
