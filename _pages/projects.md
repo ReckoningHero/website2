@@ -14,7 +14,8 @@ Check back for more updates in the near future!
 
 | **Ardunio Simulation** (*Unity*)          |     Description   | 
 | :---                |     :----        |                 
-| ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement) |
+| ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement) 
+Note: Unity3D Game contributed as team project for a semester course    | 
 
 
 <body>
@@ -36,7 +37,8 @@ Check back for more updates in the near future!
 
 | **The Way Out Game** (*Unity*)            |     Description   |
 | :---                |     :----        |                  
-|  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         | 
+|  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         
+Note: Unity3D Game contributed as team project for a semester course    | 
 
 
 
