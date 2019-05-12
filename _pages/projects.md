@@ -159,7 +159,6 @@ Note: Debugged and ulitized with the latest .NET Framework 4.73 using x64 archit
 </p>
 </div>
 
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({
