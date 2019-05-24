@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog #6: First Post of 2019: The Uniqueness of Being a Software Programmer"
+title: "Blog #6: First Post of 2019: The Uniqueness and Discipline of Being a Software Programmer"
 featured-img: SoftwareD
 
 ---
@@ -10,7 +10,23 @@ When I started learning programming on own free will many years ago, I thought t
 
 ![image](/assets/img/Software2.gif)
 
-So what is a software developer in fact and what qualities qualify who he or she really is? Well, let me put it this way! The old stereotype that a software developers and programmers are all geeky, square-glasses, anti-social, and sometimes even disgusting from lack of personal hygiene has become irrelevant for decades. In today's world, being a software developer can be as seen a the most professional, well-respected field, However it can be very competitive and at certain times challenging when hard projects are assigned to certain developers. Additionally, the 
+So what is a software developer in fact and what qualities qualify who he or she really is? Well, let me put it this way! The old stereotype that a software developers and programmers are all geeky, square-glasses, anti-social, and sometimes even disgusting from lack of personal hygiene has become irrelevant for decades. In today's world, being a software developer can be as seen a the most professional, well-respected field, However it can be very competitive and at certain times challenging when hard projects are assigned to certain developers. Additionally, the works of a developer requires the time and up-to-date skills to acquire certain projects in the real world. In my example, when I was doing an internship for a company remotely on the local side of San Francisco, California, I have to keep up with schedule regardless of if its weekend that I am off from working or working on a side projects of my interest. In a sense, we need to acknowledge as programmers that one of the most important element of developer is time management skills. Time management is the key to make applications more sufficient and more effective in today's market.
+
+## How can a dev improves and learn over time?
+
+With today's technology and innovation being the key elements when getting in the industry, there are a lot of skills a developer needs to know in order to stay fit and desirable in the field. For example, we always in need for some Mobile Applications especially with smartphones and operating systems such as Android and iOS. With that in mind, Senior developers are always constantly becoming agitated, but challenging rewarded from new architectures and features Android and Apple offer within each version of OS. Recently, there has been an update on Android application. Everyday, applications are in fact requires not only a dev's intuition and dedication to the project, but a unquie vision of what it could be in the next stage.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
