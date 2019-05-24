@@ -9,12 +9,10 @@ permalink: /Portfolio/
 ----
 
 
-Check back for more updates in the near future!
-
-
 | **Ardunio Simulation** (*Unity*)          |     Description   | 
 | :---                |     :----        |                 
-| ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement) |
+| ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement) 
+Note: Unity3D Game contributed as team project for a semester course    | 
 
 
 <body>
@@ -36,7 +34,8 @@ Check back for more updates in the near future!
 
 | **The Way Out Game** (*Unity*)            |     Description   |
 | :---                |     :----        |                  
-|  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         | 
+|  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         
+Note: Unity3D Game contributed as team project for a semester course    | 
 
 
 
@@ -158,7 +157,6 @@ Note: Debugged and ulitized with the latest .NET Framework 4.73 using x64 archit
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
-
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
