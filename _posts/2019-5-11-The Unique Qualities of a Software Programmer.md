@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog #6: First Post of 2019: The Uniqueness and Discipline of Being a Software Programmer"
+title: "Blog #6: The Uniqueness and Discipline of Being a Software Programmer"
 featured-img: SoftwareD
 
 ---
