@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: compress
 title: Game_Reviews
 permalink: /GameReviews/
 featured-img: gamereview
