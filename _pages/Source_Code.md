@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Source Code
-permalink: /Source_Code/
+title: Source Codes and PDFs Files
+permalink: /Source_Code
 featured-img: Source_Code
 ---
 
-Here is the list of source codes that I created!
+PDFs and Source Code Available!
 
 ## C++
 ---
