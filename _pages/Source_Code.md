@@ -25,9 +25,12 @@ PDFs and Source Code Available!
 # C# (Easy Examples)
 [Calculate Prime Numbers](https://repl.it/@twinb0rn/CalculatePrimeNumbersSum)
 
-## C# (ASP.NET/.NET Framework/WinForms/WPF)
+## C# (ASP.NET/.NET Framework/WinForms/WPF) (Paid Software)
 ---
 ---
+[]
+
+
 
 
 <!-- Google Adsense HTML Code -->
