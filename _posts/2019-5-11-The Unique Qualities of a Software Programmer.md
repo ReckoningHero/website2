@@ -19,4 +19,4 @@ to get into the real world work is to practice and practice with one's self inte
 
 ## What bring the right mindset to be a developer?
 
-Being a developer requires a lot of intuition and assertiveness to be flexible and capable on the job. What is needed today's within skillsets as a whole is to know how to tackle down problems by solving them logically and thinking critically from not only a technical perspective, but also a creative perspective to approach to almost impossible problems. This is critically important to know that the right mindset creates the most effective programmer to their full extent. The
+Being a developer requires a lot of intuition and assertiveness to be flexible and capable on the job. What is needed today's within skillsets as a whole is to know how to tackle down problems by solving them logically and thinking critically from not only a technical perspective, but also a creative perspective to approach to almost impossible problems. This is critically important to know that the right mindset creates the most effective programmer to their full extent. The right goal
