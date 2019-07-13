@@ -18,6 +18,6 @@ Please donate to the site!
  </form>
 
 
-Bitcoin: 
+Bitcoin Address: 3PZozhZe7ez9AgciRafrUEqJpp95R5FYL1
 ----
 dsa
