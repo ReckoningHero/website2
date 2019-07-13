@@ -18,6 +18,5 @@ Please donate to the site!
  </form>
 
 
-Bitcoin Address: 3MdWxocNhJqrfwZFo9SkSAjoHJXqXtJDY3
+Bitcoin Address: 396gKVgpD6kxWw1AYX2Lm6cL8xDxECi5MN
 ----
-dsa
