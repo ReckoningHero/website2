@@ -22,6 +22,10 @@ PDFs and Source Code Available!
 ---
 ---
 
+
+## Python
+
+
 ## C# (Easy Examples)
 [Calculate Prime Numbers](https://repl.it/@twinb0rn/CalculatePrimeNumbersSum)
 
