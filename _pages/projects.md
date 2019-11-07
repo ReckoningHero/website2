@@ -10,10 +10,10 @@ permalink: /Portfolio/
 
 
 
-| **Ardunio Simulation** (*Unity*)          |     Description   | 
+| **Ardunio Simulation** (*Unity*)          |     Description   |
 | :---                |     :----        |                 
-| ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement) 
-Note: Unity3D Game contributed as team project for a semester course    | 
+| ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)
+Note: Unity3D Game contributed as team project for a semester course    |
 
 
 <body>
@@ -30,13 +30,13 @@ Note: Unity3D Game contributed as team project for a semester course    |
         <div class = "col-sm-2">
         </div>
     </div>
-</body> 
+</body>
 
 
 | **The Way Out Game** (*Unity*)            |     Description   |
 | :---                |     :----        |                  
 |  ![The Way Out](/assets/img/Project2.JPG) |TEAM PROJECT: Credit for AI mechanism, first level scene, some level art assets         
-Note: Unity3D Game contributed as team project for a semester course    | 
+Note: Unity3D Game contributed as team project for a semester course    |
 
 
 
@@ -54,13 +54,13 @@ Note: Unity3D Game contributed as team project for a semester course    |
         <div class = "col-sm-2">
         </div>
     </div>
-</body> 
+</body>
 
 
-| **C++ DirectX Framework:  X Marks the Spot**            |     Description   | 
+| **C++ DirectX Framework:  X Marks the Spot**            |     Description   |
 | :---                |     :----        |             
 | ![C++ Framework](/assets/img/Project3.JPG) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment        
-Note: A DirextX 3D game I made back when I finished up back in high school. Easy API interface to make an excuetable program to intialize an algorithm that let the user move in a 2D array/if-else coordinations in real time environment.           |           
+Note: A DirextX 3D game I made back when I finished up back in high school. Easy API interface to make an executable program to initialize an algorithm that let the user move in a 2D array/if-else coordination in real time environment.           |           
 
 
 <body>
@@ -81,9 +81,9 @@ Note: A DirextX 3D game I made back when I finished up back in high school. Easy
 
 
 
-| **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   | 
+| **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   |
 | :---                |     :----        |                
-| (*Unreal Engine 4*)  |INDIVIDUAL PROJECT:  RPG Game                |    <a  href="https://github.com/ReckoningHero/Unreal-Engine-4">Download</a> 
+| (*Unreal Engine 4*)  |INDIVIDUAL PROJECT:  RPG Game                |    <a  href="https://github.com/ReckoningHero/Unreal-Engine-4">Download</a>
 
 
 
@@ -101,13 +101,13 @@ Note: A DirextX 3D game I made back when I finished up back in high school. Easy
         <div class = "col-sm-2">
         </div>
     </div>
-</body> 
+</body>
 
 
-| **C# .NET: Private Browser** (*Work In Progress*)          |     Description   | 
+| **C# .NET: Private Browser** (*Work In Progress*)          |     Description   |
 | :---                |     :----        |                  
 |  ![Browser](/assets/img/Browser2.gif) |INDIVIDUAL PROJECT:  Web Browser that captures real time performance on .NET browser and delete historical searches and user's activity when program exited.              
-Note: Debugged and ulitized with the latest .NET Framework 4.73 using x64 architecture |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser" >Download</a>
+Note: Debugged and utilized with the latest .NET Framework 4.73 using x64 architecture |        <a href="https://github.com/ReckoningHero/C-Sharp-.NET--Private-Browser" >Download</a>
 
 
 <body>
@@ -124,7 +124,7 @@ Note: Debugged and ulitized with the latest .NET Framework 4.73 using x64 archit
         <div class = "col-sm-2">
         </div>
     </div>
-</body> 
+</body>
 
 # Interactive 3D Animation
 ---
