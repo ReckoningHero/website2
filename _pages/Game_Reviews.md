@@ -5,7 +5,6 @@ permalink: /GameReviews/
 featured-img: gamereview
 ---
 
-
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
