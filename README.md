@@ -34,4 +34,4 @@ B:  Create a blog posts that can influence any wannabe programmers to learn how 
 
 C:  Change copyright name and year.
 
-D:  Add search engine on the homepage for end user to search case-sensitive words exactly
+D:  Add search engine on the homepage for end user to search case-sensitive words exactly.
