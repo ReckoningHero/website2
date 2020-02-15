@@ -44,4 +44,3 @@ twinb0rn#7898
 
 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/badge.js" async defer></script>
