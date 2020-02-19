@@ -17,7 +17,6 @@ PDFs and Source Code Available!
 [Priority Queue](https://repl.it/@twinb0rn/Priority-Queue)
 [HashTable](https://repl.it/@twinb0rn/HashTable)
 
-
 ## C# (Easy Examples)
 [Calculate Prime Numbers](https://repl.it/@twinb0rn/CalculatePrimeNumbersSum)
 
