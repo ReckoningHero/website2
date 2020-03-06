@@ -19,7 +19,6 @@ B:  Create a blog posts that can influence any wannabe programmers to learn how 
 C:  Change copyright name and year.
 
 
-
 # Changelog
 
 A:  Added with some engine from the HTML5 and CSS3
