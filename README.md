@@ -9,14 +9,6 @@ A personal project website that I created in  JavaScript, HTML, CSS, and some C#
 
 Using this website for the pages and sites. Using the latest HTML5, CSS3, and JavaScript. The website can vary from blogs and notes from projects from portfolio.
 
-# Reference
-
-A:  Added with some engine from the HTML5 and CSS3
-
-B:  Create a blog posts that can influence any wannabe programmers to learn how to code theatrically and practically.
-
-C:  Change copyright name and year.
-
 
 # Changelog
 
