@@ -14,6 +14,7 @@ is to be able to discard half of the array within each iteration and leave the f
 For example, we can take this example for instance:
 
 
+
 ```yaml
 int array[] =
 {
