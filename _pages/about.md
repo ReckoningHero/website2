@@ -11,7 +11,7 @@ featured-img: aboutme
 
 # Welcome
 
-   I am a learner of all things software from inside and out. I have been a active programmer since the age of 15. Even since, I dive myself into a world of information and algorithms that entice my passion to continue the pathway as a programmer. First programming language was Java, then it was C++. C++ thrives my enthusiasm with many IDE and SDK software such as game development and software in day to day basis needs. I specialized in game development such as Unity and Unreal Engine 4 and .NET development for desktop apps and sometimes websites. I am right now currently learning VR development so I can kickstart my career as maybe a future indie game developer. Even to this day, I am still learning each and every day to learn more about software implementation and how real world development works as time passes since learning my first code, “Hello World”!
+I am a desired learner of everything within software from inside and out. I have been an active programmer since the age of 15. Since then, I dive myself into a world of vast information and complicated algorithms that entices my passion to continue the pathway as a programmer. The first programming language that I practiced was C++. C++ even since thrives my enthusiasm with many IDE and SDK software such as game development and software Development. On the side time, I currently committed and practicing on demand game development engines such as Unity/ Unreal Engine 4 and C#/.NET development for desktop apps. In a long-term goal, I mold a tangible path to become a senior-level software developer to learn and adapt technologies as soon as possible as the technology field has grown faster than ever before.
 
 ---
 ---
@@ -41,6 +41,3 @@ featured-img: aboutme
 
 ## Discord:
 twinb0rn#7898
-
-
-
