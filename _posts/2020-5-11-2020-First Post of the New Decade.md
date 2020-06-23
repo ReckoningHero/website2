@@ -6,4 +6,3 @@ featured-img: SoftwareD
 ---
 ## 2020-New Year, New Decade
 
-Hello, there! It is been a while since I post a blog here. A lot of stuff has happened from the past
