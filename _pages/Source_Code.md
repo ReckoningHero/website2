@@ -27,7 +27,6 @@ PDFs and Source Code Available!
 
 
 
-
 <!-- Google Adsense HTML Code -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
