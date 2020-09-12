@@ -125,10 +125,6 @@ Note: Debugged and utilized with the latest .NET Framework 4.73 using x64 archit
     </div>
 </body>
 
-# Interactive 3D Animation
----
----
-
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.js">
 </script>
@@ -143,9 +139,7 @@ Note: Debugged and utilized with the latest .NET Framework 4.73 using x64 archit
 <script src="sketch.js">
 </script>
 
-
-
-# 3D Models Design
+# 3D Models Design/Animation
 ----
 ----
 
