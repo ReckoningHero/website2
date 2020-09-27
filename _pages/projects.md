@@ -58,7 +58,7 @@ Note: Unity3D Game contributed as team project for a semester course    |
 
 | **C++ DirectX Framework:  X Marks the Spot**            |     Description   |
 | :---                |     :----        |             
-| ![C++ Framework](/assets/img/Project3.GIF) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment        
+| ![C++ Framework](/assets/img/Project3.gif) |INDIVIDUAL PROJECT:  C++ Framework that uses DirectX 11 and 3D directories with 2D-gaming environment        
 Note: A DirextX 3D game I made back when I finished up back in high school. Easy API interface to make an executable program to initialize an algorithm that let the user move in a 2D array/if-else coordination in real time environment.           |           
 
 
