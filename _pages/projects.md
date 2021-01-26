@@ -9,6 +9,10 @@ permalink: /Portfolio/
 ----
 
 
+For more info, here is my other website: https://twinb0rn.itch.io/
+
+---
+
 | **Ardunio Simulation** (*Unity*)          |     Description   |
 | :---                |     :----        |                 
 | ![Ardunio Unity Project](/assets/img/Project1.JPG)  |TEAM PROJECT: Credit for First person mechanism and Room scene(Physics, Tables, and movement)
