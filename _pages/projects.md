@@ -9,7 +9,7 @@ permalink: /Portfolio/
 ----
 
 
-For more info, here is my other website: https://twinb0rn.itch.io/
+For more info, here is my other website: [twinb0rn.itch.io](https://twinb0rn.itch.io/)
 
 ---
 
