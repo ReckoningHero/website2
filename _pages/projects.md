@@ -9,8 +9,7 @@ permalink: /Portfolio/
 ----
 
 
-For more info, here is my other website: [twinb0rn.itch.io](https://twinb0rn.itch.io/)
-[Unity Connect Profile]https://connect.unity.com/u/joshua-n
+For more info, here is my other website: [twinb0rn.itch.io](https://twinb0rn.itch.io/), [Unity Connect Profile](https://connect.unity.com/u/joshua-n)
 
 ---
 
