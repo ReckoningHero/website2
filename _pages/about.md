@@ -11,7 +11,7 @@ featured-img: aboutme
 
 # About Me
 
-I am a desired learner of everything within software from inside and out. I have been an active programmer since the age of 15. Since then, I dive myself into a world of vast information and complicated algorithms that entices my passion to continue the pathway as a programmer. The first programming language that I practiced was C++. C++ even since thrives my enthusiasm with many IDE and SDK software such as game development and software Development. On the side time, I currently committed and practicing on demand game development engines such as Unity/ Unreal Engine 4 and C#/.NET development for desktop apps. In a long-term goal, I mold a tangible path to become a senior-level software developer to learn and adapt technologies as soon as possible as the technology field has grown faster than ever before. 
+I am a desired learner of everything within software from inside and out. I have been an active programmer since the age of 15. Since then, I dive myself into a world of vast information and complicated algorithms that entices my passion to continue the pathway as a programmer. The first programming language that I practiced was C++. C++ even since thrives my enthusiasm with many IDE and SDK software such as game development and software Development. On the side time, I currently committed and practicing on demand game development engines such as Unity/ Unreal Engine 4 and C#/.NET development for desktop apps. In a long-term goal, I mold a tangible path to become a senior-level software developer to learn and adapt technologies as soon as possible as the technology field has grown faster than ever before.
 
 
 ---
@@ -25,6 +25,11 @@ I am a desired learner of everything within software from inside and out. I have
 ---
 
 ## Certifications:
+
+[Acclaim URL](youracclaim.com/users/joshuan) 
+
+---
+---
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ## LinkedIn:
