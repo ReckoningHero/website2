@@ -18,7 +18,7 @@ I am a desired learner of everything within software from inside and out. I have
 ---
 
 ## Resume:
-[Resume 2020]({{ "/assets/PDFs/Resume 2020.pdf" | absolute_url }})
+[Resume 2021]({{ "/assets/PDFs/Resume 2021.pdf" | absolute_url }})
 
 
 ---
