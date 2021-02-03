@@ -26,7 +26,7 @@ I am a desired learner of everything within software from inside and out. I have
 
 ## Certifications:
 
-[Acclaim URL](youracclaim.com/users/joshuan) 
+[Acclaim URL](https://www.youracclaim.com/users/joshuan) 
 
 ---
 ---
