@@ -38,7 +38,10 @@ All Certifications are in here: [Acclaim URL](https://www.youracclaim.com/users/
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joshuanguyensoft1995"><a class="LI-simple-link" href='https://www.linkedin.com/in/joshuanguyensoft1995?trk=profile-badge'>My LinkedIn Profile</a></div>
 
 ## HackerRank:                                                        
-[HackerRank Profile](https://www.hackerrank.com/twinb0rn?hr_r=1)         
+[HackerRank Profile](https://www.hackerrank.com/twinb0rn?hr_r=1)
+
+## LeetCode:
+[LeetCode Profile]()         
 
 ## Remote:
 [Remote Profile ](https://remote.com/joshuan)
