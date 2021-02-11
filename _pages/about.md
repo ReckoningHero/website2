@@ -49,8 +49,6 @@ All Certifications are in here: [Acclaim URL](https://www.youracclaim.com/users/
 ## Repl.it:
 [Repl.it Profile](https://repl.it/@twinb0rn)
 
-##
-
 ## Discord: twinb0rn#7898
 
 
