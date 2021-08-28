@@ -14,7 +14,7 @@ For more info, here is my other website: [twinb0rn.itch.io](https://twinb0rn.itc
 ---
 | **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   |
 | :---                |     :----        |                
-| ![Unreal Engine 4](/assets/img/ProjectUnreal)  |INDIVIDUAL PROJECT:  CyberWar (Third Person Shooter)              |    <a  href="https://github.com/ReckoningHero/Unreal-Engine-4">Download</a>
+| ![Unreal Engine 4](/assets/img/ProjectUnreal.png)  |INDIVIDUAL PROJECT:  CyberWar (Third Person Shooter)              |    <a  href="https://github.com/ReckoningHero/Unreal-Engine-4">Download</a>
 
 | **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   |
 | :---                |     :----        |                
