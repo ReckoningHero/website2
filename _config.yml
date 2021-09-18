@@ -10,11 +10,12 @@ twitter_username: twinb0rn # replace with your_twitter_username or comment to re
 github_username:  ReckoningHero # replace with your_github_username or comment to remove link from footer
 linkedin_username: twinb0rn # replace with your_instagram_username or comment to remove link from footer
 social:
-  name: Joshua 
+  name: Joshua
   links:
     - https://twitter.com/twinb0rn0
     - https://github.com/ReckoningHero
     - https://www.linkedin.com/in/twinb0rn
+    - https://discord.gg/b3WNwxQsbn
 
 disqus:
   shortname: twinb0rn # to enable comments replace with your_disqus_shortname

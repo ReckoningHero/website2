@@ -55,9 +55,7 @@ All Certifications are in here: [Acclaim URL](https://www.youracclaim.com/users/
 ### Watch Party Server
 <iframe src="https://discord.com/widget?id=714010722132295721&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-https://discord.gg/DauK2kqE
+https://discord.gg/b3WNwxQsbn
 
 ### Pros Server
 <iframe src="https://discord.com/widget?id=793653576395784192&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-https://discord.gg/d2WzuGgQ
