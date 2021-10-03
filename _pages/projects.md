@@ -12,15 +12,10 @@ permalink: /Portfolio/
 For more info, here is my other website: [twinb0rn.itch.io](https://twinb0rn.itch.io/), [Unity Connect Profile](https://connect.unity.com/u/joshua-n)
 
 ---
-| **CyberWar** (*Unreal Engine 4*)     |     Description   |
-| :---                |     :----        |                 
-| ![Unreal Engine 4]()  |INDIVIDUAL PROJECT:  CyberWar (Third Person Shooter)              |  
-<a  href="https://drive.google.com/drive/folders/1W-0jy-wmJug1brKXZRSuqaEqcuPR-7Cy?usp=sharing">Download</a> |
-
 
 | **Project** (*Unreal Engine 4*) (*Work In Progress*)            |     Description   |
 | :---                |     :----        |                
-| (*Unreal Engine 4*)  |INDIVIDUAL PROJECT:  RPG Game                |    <a  href="https://github.com/ReckoningHero/Unreal-Engine-4">Download</a>
+| ![Unreal Engine 4](/assets/img/ProjectUnreal.png)   |INDIVIDUAL PROJECT:  CyberWar (Third Person Shooter)            |    <a  href="https://drive.google.com/drive/folders/1W-0jy-wmJug1brKXZRSuqaEqcuPR-7Cy?usp=sharing">Download</a>
 
 | **Ardunio Simulation** (*Unity*)          |     Description   |
 | :---                |     :----        |                 
