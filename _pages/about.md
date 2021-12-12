@@ -41,7 +41,10 @@ All Certifications are in here: [Acclaim URL](https://www.youracclaim.com/users/
 [HackerRank Profile](https://www.hackerrank.com/twinb0rn?hr_r=1)
 
 ## LeetCode:
-[LeetCode Profile]()         
+[LeetCode Profile](https://leetcode.com/twinb0rn/)
+
+## binarysearch:
+[Binarysearch Profile](https://binarysearch.com/@/twinb0rn)         
 
 ## Remote:
 [Remote Profile ](https://remote.com/joshuan)
@@ -51,11 +54,10 @@ All Certifications are in here: [Acclaim URL](https://www.youracclaim.com/users/
 
 ## Discord: twinb0rn#7898
 
-
 ### Watch Party Server
 <iframe src="https://discord.com/widget?id=714010722132295721&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-https://discord.gg/b3WNwxQsbn
+[Invite](https://discord.gg/b3WNwxQsbn)
 
 ### Pros Server
 <iframe src="https://discord.com/widget?id=793653576395784192&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
